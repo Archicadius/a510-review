@@ -1,6 +1,6 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-08T17:26:59.536442+03:00_
+_generated: 2026-07-08T17:57:15.518855+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
