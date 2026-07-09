@@ -1,27 +1,89 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-08T17:31:57.105185+03:00_
+_generated: 2026-07-09T14:02:38.253055+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **98** · no **66** · pending **1** · total **165**
+- verdicts: yes **101** · no **68** · pending **1** · total **170**
 - ready to publish: **0**
 
 ## DNA summary
-- **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / sculptural / modern / contemporary (rotate across these, don't converge) Materials: glass / timber / natural_stone / white_plaster / corten (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / stairs (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour (rotate across these, d…
+- **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / sculptural / contemporary / modern (rotate across these, don't converge) Materials: glass / timber / natural_stone / white_plaster / rough_stone (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / stairs (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour (rotate across the…
 - **landscape**: LANDSCAPE is a designed, EXPENSIVE co-star (design it WITH the building, not wild nature). Refined premium landscaping: modern terracing, polished/honed retaining walls, paved terraces, sculptural stairs & paths, curated Mediterranean gardens (mature olives, cypress, pines, palms where fitting, ornamental grasses), premium pool decks, designed outdoor rooms, soft evening landscape lighting. Feels integrated and world-class — not just rough terrain. Owner-confirmed landscape types: terraced, designed_luxury, integrated. Include confirmed features: retaining_walls, mature_garden, terraces, pool…
-- **caption**: Hooks that landed (echo this voice, don't copy): “The cliff doesn't interrupt the view — it frames it.” | “Marble reads as mass. Dark metal holds the edge.” | “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” Owner-preferred length ≈ 86 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace pulls ” | “White plaster holds the heat. Corten marks the threshol…
-- **experience**: Express these EXPERIENCES (owner-confirmed): .
+- **caption**: Hooks that landed (echo this voice, don't copy): “The cliff doesn't interrupt the view — it frames it.” | “Marble reads as mass. Dark metal holds the edge.” | “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” Owner-preferred length ≈ 88 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace pulls ” | “White plaster holds the heat. Corten marks the threshol…
+- **experience**: Express these EXPERIENCES (owner-confirmed): privacy, serenity, escape, sunset, slow living, sea breeze.
 
 ## Repeated problems (top rejection reasons)
-- caption ×1
+- some frames slightly less impactful than others ×1
+- limited material palette variety within this specific set ×1
+- foreground deck feels slightly under-utilized ×1
 
 ## Ready to publish
 - (none)
 
 ## Recent candidates (40)
+
+### 260709-094630  ·  yes/good  ·  review
+
+![260709-094630](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-094630.jpg)
+
+- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 100
+- experience: privacy, serenity, escape, sunset
+- materials: polished_stone, glass, water
+- architecture: contemporary
+- brief: Первые восемь слов
+- caption: Marble above, travertine below. The section does the rest.  Two masses offset across the slope — lower terrace carved from grade, upper plane cantilevered into open air. Walnut at every threshold. Bronze at the glass. The infinity edge is not a gesture; it is…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-094630&file=render.png
+
+### 260709-094212  ·  yes/good  ·  review
+
+![260709-094212](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-094212.jpg)
+
+- scores: ovr 9.5 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 98.0 · exp 95.0 · arch 98.0
+- experience: arrival, privacy, serenity, escape
+- materials: travertine, timber, glass, rough_stone
+- architecture: mixed_material
+- brief: Наш саундтрек — это рассуждение
+- caption: Travertine grounds it. Marble lifts toward the sea. Bronze holds the seam.  The massing resolves as two registers — a travertine base carved into grade, a white marble volume floating above the pool plane. Walnut soffits warm the underside; bronze accents mar…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-094212&file=render.png
+
+### 260709-093954  ·  no/bad  ·  review
+
+![260709-093954](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-093954.jpg)
+
+- scores: ovr 9.2 · QL 98.0 · A510 95.0 · Bod 98.0 · prem 95.0 · exp 95.0 · arch 100
+- experience: arrival, privacy, serenity, escape
+- materials: rough_stone, timber, glass, water
+- architecture: stone_villa
+- brief: 10 сообщений в личку весомее 100 лайков
+- caption: Travertine holds the plane. Bronze draws the edge.  The massing resolves into two horizontal volumes — travertine base grounding the mass, white plaster lifting above — walnut soffits pulling the eye seaward. Glass is held back; it serves the interior, not th…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-093954&file=render.png
+
+### 260709-093508  ·  yes/good  ·  review
+
+![260709-093508](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-093508.jpg)
+
+- scores: ovr 9.5 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 95.0 · exp 95.0 · arch 98.0
+- experience: privacy, serenity, escape, sunset
+- materials: refined_concrete, glass, rough_stone, timber
+- architecture: contemporary
+- brief: Рилс ловит. Расчёт закрывает.
+- caption: Travertine reads slow. The water line holds the horizon.  Two interlocking volumes: marble base set into grade, white plaster reading light above. Walnut soffits warm the cantilever underside. Bronze at the threshold. The infinity edge bisects the Aegean at t…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-093508&file=render.png
+
+### 260709-093256  ·  no/bad  ·  review
+
+![260709-093256](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-093256.jpg)
+
+- scores: ovr 9.5 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 97.0 · exp 95.0 · arch 99.0
+- experience: privacy, serenity, escape, golden_hour
+- materials: rough_stone, travertine, timber, glass
+- architecture: mixed_material
+- brief: Студия проигрывает телефону
+- caption: Bronze at the joint. Walnut at the threshold.  Travertine base roots the structure to the slope; white plaster volumes rise clean above it. Bronze marks every transition — not as ornament, but as material grammar. The infinity pool extends the stone plane out…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-093256&file=render.png
 
 ### ing-9313c39a  ·  yes/good  ·  review
 
@@ -302,46 +364,6 @@ _generated: 2026-07-08T17:31:57.105185+03:00_
 - scores: no-critic
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=ing-20eaeea0&file=render.png
-
-### ing-8589ca7a  ·  no/never  ·  review
-
-![ing-8589ca7a](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/ing-8589ca7a.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=ing-8589ca7a&file=render.png
-
-### ing-e5612be5  ·  yes/good  ·  review
-
-![ing-e5612be5](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/ing-e5612be5.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=ing-e5612be5&file=render.png
-
-### ing-9238f78e  ·  no/bad  ·  review
-
-![ing-9238f78e](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/ing-9238f78e.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=ing-9238f78e&file=render.png
-
-### ing-5da93609  ·  no/bad  ·  review
-
-![ing-5da93609](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/ing-5da93609.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=ing-5da93609&file=render.png
-
-### ing-12d6813b  ·  no/bad  ·  review
-
-![ing-12d6813b](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/ing-12d6813b.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=ing-12d6813b&file=render.png
 
 ---
 _thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
