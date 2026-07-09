@@ -1,48 +1,36 @@
-# A510 · Brissa — LAUNCH REVIEW (первые 2 поста @A510.model)
+# A510 · Brissa — LAUNCH REVIEW (первые 2 поста @A510.model) — v2 (обновлённые подписи)
 
-_Прошу критику ChatGPT-стратега: оцени два поста ниже перед публикацией. Отбор кадров — по оценкам
-владельца (оба ❤️ perfect). Аккаунт: архитектура-first Bodrum quiet luxury. Дай по каждому: (1) что
-работает, (2) риски/что улучшить в подписи или выборе кадра, (3) вердикт publish / hold, (4) идея,
-что снять/усилить в следующих постах._
+Прошу критику ChatGPT-стратега. Картинки владельцем ЗАФИКСИРОВАНЫ, меняется только текст.
+Правило подписи: не описывать кадр; архитектурная мысль; баланс ≈60% арх-идея / 25% образ жизни /
+15% долгосрочная ценность; деньги только через архитектуру; без sales-лексики. По каждому дай:
+(1) что работает, (2) что усилить, (3) publish/hold, (4) идея на след. посты.
 
-Правила бренда: только «A510 Architects / A510 Studio»; в подписи запрещены слова AI/generated/
-prompt/Gemini/render/experimental; тон — концепт, не листинг; финал каждой подписи «Concept study
-by A510 Architects.» + мягкий DM-CTA.
-
----
-
-## Пост №1 — 260707-122606 (первый пост)
-
+## Пост №1 — 260707-122606
 ![post1](https://raw.githubusercontent.com/Archicadius/a510-review/main/launch/260707-122606.jpg)
 
-Материалы: travertine / walnut / glass · закат-террасы к морю · owner: perfect.
-
-**Caption:**
-> Travertine holds the light; the sea does the rest.
+> Architecture doesn't sit on a hillside. It listens to it.
 >
-> Stacked terraces step the hillside down to the water — deep timber soffits draw shade across full-height glass, so the rooms live outdoors. On the Bodrum peninsula a sea-facing plot like this is a finite asset — the kind quiet capital keeps.
+> When a house steps with the land instead of resisting it, light moves through the whole day and the sea becomes part of every room. This is restraint over spectacle — proportion and shade doing the quiet work that makes a place feel calm.
+>
+> That calm is a way of living. And quiet luxury ages better than fashion — architecture made this way holds its worth long after trends have moved on.
 >
 > Concept study by A510 Architects.
 >
-> Bring your site and brief to our DM — we design private villas and small communities on the Aegean.
+> Bring us a place and an intention — we design private homes and small communities on the Aegean. DM to begin.
 >
-> #Bodrum #AegeanArchitecture #Travertine #VillaDesign #QuietLuxury #ContemporaryArchitecture
-
----
+> #Bodrum #Yalikavak #AegeanArchitecture #QuietLuxury #ContemporaryArchitecture #VillaDesign
 
 ## Пост №2 — 260708-010027
-
 ![post2](https://raw.githubusercontent.com/Archicadius/a510-review/main/launch/260708-010027.jpg)
 
-Материалы: rough stone / corten / honed stone · сцена прибытия среди сосен · owner: perfect.
-
-**Caption:**
-> Arrival, framed in corten and stone.
+> You feel a house before you ever step inside it.
 >
-> A rough-stone volume settled among the pines; a corten portal marks the threshold as travertine steps rise through the garden to the door. Bodrum luxury that doesn't shout — landscape first, architecture quiet and made to last.
+> Arrival is architecture's first sentence — the way a threshold slows you, gathers the light and tells you exactly where you are. Get that single moment right and the rest of the home follows from it.
+>
+> A place that receives you like this quietly shapes how you live in it every day — and homes made with real care only deepen with time.
 >
 > Concept study by A510 Architects.
 >
-> Bring your site and brief to our DM.
+> Planning a home or a small community in Bodrum? Bring your place and your idea to our DM.
 >
-> #Bodrum #AegeanArchitecture #NaturalStone #Corten #QuietLuxury #ArchitecturalConcept
+> #Bodrum #Yalikavak #AegeanArchitecture #Arrival #QuietLuxury #ArchitecturalConcept
