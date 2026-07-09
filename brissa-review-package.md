@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-08T17:57:15.518855+03:00_
+_generated: 2026-07-09T12:01:56.404600+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **98** · no **66** · pending **1** · total **165**
+- verdicts: yes **98** · no **66** · pending **6** · total **170**
 - ready to publish: **0**
 
 ## DNA summary
@@ -16,12 +16,72 @@ _generated: 2026-07-08T17:57:15.518855+03:00_
 - **experience**: Express these EXPERIENCES (owner-confirmed): .
 
 ## Repeated problems (top rejection reasons)
-- caption ×1
+- (none)
 
 ## Ready to publish
 - (none)
 
 ## Recent candidates (40)
+
+### 260709-094630  ·  pending  ·  review
+
+![260709-094630](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-094630.jpg)
+
+- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 100
+- experience: privacy, serenity, escape, sunset
+- materials: polished_stone, glass, water
+- architecture: contemporary
+- brief: Первые восемь слов
+- caption: Marble above, travertine below. The section does the rest.  Two masses offset across the slope — lower terrace carved from grade, upper plane cantilevered into open air. Walnut at every threshold. Bronze at the glass. The infinity edge is not a gesture; it is…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-094630&file=render.png
+
+### 260709-094212  ·  pending  ·  review
+
+![260709-094212](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-094212.jpg)
+
+- scores: ovr 9.5 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 98.0 · exp 95.0 · arch 98.0
+- experience: arrival, privacy, serenity, escape
+- materials: travertine, timber, glass, rough_stone
+- architecture: mixed_material
+- brief: Наш саундтрек — это рассуждение
+- caption: Travertine grounds it. Marble lifts toward the sea. Bronze holds the seam.  The massing resolves as two registers — a travertine base carved into grade, a white marble volume floating above the pool plane. Walnut soffits warm the underside; bronze accents mar…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-094212&file=render.png
+
+### 260709-093954  ·  pending  ·  review
+
+![260709-093954](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-093954.jpg)
+
+- scores: ovr 9.2 · QL 98.0 · A510 95.0 · Bod 98.0 · prem 95.0 · exp 95.0 · arch 100
+- experience: arrival, privacy, serenity, escape
+- materials: rough_stone, timber, glass, water
+- architecture: stone_villa
+- brief: 10 сообщений в личку весомее 100 лайков
+- caption: Travertine holds the plane. Bronze draws the edge.  The massing resolves into two horizontal volumes — travertine base grounding the mass, white plaster lifting above — walnut soffits pulling the eye seaward. Glass is held back; it serves the interior, not th…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-093954&file=render.png
+
+### 260709-093508  ·  pending  ·  review
+
+![260709-093508](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-093508.jpg)
+
+- scores: ovr 9.5 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 95.0 · exp 95.0 · arch 98.0
+- experience: privacy, serenity, escape, sunset
+- materials: refined_concrete, glass, rough_stone, timber
+- architecture: contemporary
+- brief: Рилс ловит. Расчёт закрывает.
+- caption: Travertine reads slow. The water line holds the horizon.  Two interlocking volumes: marble base set into grade, white plaster reading light above. Walnut soffits warm the cantilever underside. Bronze at the threshold. The infinity edge bisects the Aegean at t…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-093508&file=render.png
+
+### 260709-093256  ·  pending  ·  review
+
+![260709-093256](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-093256.jpg)
+
+- scores: ovr 9.5 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 97.0 · exp 95.0 · arch 99.0
+- experience: privacy, serenity, escape, golden_hour
+- materials: rough_stone, travertine, timber, glass
+- architecture: mixed_material
+- brief: Студия проигрывает телефону
+- caption: Bronze at the joint. Walnut at the threshold.  Travertine base roots the structure to the slope; white plaster volumes rise clean above it. Bronze marks every transition — not as ornament, but as material grammar. The infinity pool extends the stone plane out…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-093256&file=render.png
 
 ### ing-9313c39a  ·  yes/good  ·  review
 
@@ -302,46 +362,6 @@ _generated: 2026-07-08T17:57:15.518855+03:00_
 - scores: no-critic
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=ing-20eaeea0&file=render.png
-
-### ing-8589ca7a  ·  no/never  ·  review
-
-![ing-8589ca7a](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/ing-8589ca7a.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=ing-8589ca7a&file=render.png
-
-### ing-e5612be5  ·  yes/good  ·  review
-
-![ing-e5612be5](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/ing-e5612be5.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=ing-e5612be5&file=render.png
-
-### ing-9238f78e  ·  no/bad  ·  review
-
-![ing-9238f78e](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/ing-9238f78e.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=ing-9238f78e&file=render.png
-
-### ing-5da93609  ·  no/bad  ·  review
-
-![ing-5da93609](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/ing-5da93609.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=ing-5da93609&file=render.png
-
-### ing-12d6813b  ·  no/bad  ·  review
-
-![ing-12d6813b](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/ing-12d6813b.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=ing-12d6813b&file=render.png
 
 ---
 _thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
