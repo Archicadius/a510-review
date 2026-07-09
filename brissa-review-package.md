@@ -1,22 +1,24 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-09T20:34:48.301554+03:00_
+_generated: 2026-07-10T00:15:07.834980+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **102** · no **68** · pending **12** · total **182**
+- verdicts: yes **106** · no **69** · pending **7** · total **182**
 - ready to publish: **0**
 
 ## DNA summary
-- **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / sculptural / contemporary / modern (rotate across these, don't converge) Materials: glass / timber / natural_stone / white_plaster / rough_stone (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / stairs (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour (rotate across the…
-- **diversity**: Diversity: last 30 posts over-use materials='glass' — deliberately pick a DIFFERENT one (try: timber, natural_stone, white_plaster, rough_stone); stay inside A510 DNA.
+- **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / sculptural / modern (rotate across these, don't converge) Materials: glass / timber / white_plaster / natural_stone / rough_stone (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour (rotate acros…
+- **diversity**: Diversity: last 30 posts over-use materials='glass' — deliberately pick a DIFFERENT one (try: timber, white_plaster, natural_stone, rough_stone); stay inside A510 DNA.
 - **landscape**: LANDSCAPE is a designed, EXPENSIVE co-star (design it WITH the building, not wild nature). Refined premium landscaping: modern terracing, polished/honed retaining walls, paved terraces, sculptural stairs & paths, curated Mediterranean gardens (mature olives, cypress, pines, palms where fitting, ornamental grasses), premium pool decks, designed outdoor rooms, soft evening landscape lighting. Feels integrated and world-class — not just rough terrain. Owner-confirmed landscape types: terraced, designed_luxury, integrated. Include confirmed features: retaining_walls, mature_garden, terraces, pool…
-- **caption**: Hooks that landed (echo this voice, don't copy): “The cliff doesn't interrupt the view — it frames it.” | “Marble reads as mass. Dark metal holds the edge.” | “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” Owner-preferred length ≈ 88 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace pulls ” | “White plaster holds the heat. Corten marks the threshol…
-- **experience**: Express these EXPERIENCES (owner-confirmed): privacy, serenity, escape, sunset, slow living, sea breeze.
+- **caption**: Hooks that landed (echo this voice, don't copy): “The cliff doesn't interrupt the view — it frames it.” | “Marble reads as mass. Dark metal holds the edge.” | “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” Owner-preferred length ≈ 90 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace pulls ” | “White plaster holds the heat. Corten marks the threshol…
+- **experience**: Express these EXPERIENCES (owner-confirmed): serenity, sunset, privacy, escape, slow living, sea breeze.
 
 ## Repeated problems (top rejection reasons)
+- foreground styling slightly staged ×1
+- rough stone dominates foreground ×1
 - some frames slightly less impactful than others ×1
 - limited material palette variety within this specific set ×1
 - foreground deck feels slightly under-utilized ×1
@@ -98,7 +100,7 @@ _generated: 2026-07-09T20:34:48.301554+03:00_
 - caption: Marble holds the plane. The terrace dissolves into sea.  A terrace at this altitude is geometry, not furniture. The infinity edge aligns with the horizon deliberately — where pool and sea become one surface, the architecture steps back. Walnut and travertine …
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-200238&file=render.png
 
-### 260709-195946  ·  pending  ·  review
+### 260709-195946  ·  no/bad  ·  review
 
 ![260709-195946](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-195946.jpg)
 
@@ -110,7 +112,7 @@ _generated: 2026-07-09T20:34:48.301554+03:00_
 - caption: White plaster isn't a finish — it's a decision about light.  On a sea-facing site, every plane has an orientation that matters. Morning rakes across marble at an angle that reveals depth rather than surface; white plaster diffuses what remains into even, brea…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-195946&file=render.png
 
-### 260709-195702  ·  pending  ·  review
+### 260709-195702  ·  yes/good  ·  review
 
 ![260709-195702](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-195702.jpg)
 
@@ -122,7 +124,7 @@ _generated: 2026-07-09T20:34:48.301554+03:00_
 - caption: The terrace edge and the horizon form one drawn line.  When an infinity pool is calibrated to the sea below, the architecture stops performing — it simply extends the landscape. Marble and warm plaster hold the horizontal datum; bronze at the threshold keeps …
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-195702&file=render.png
 
-### 260709-195428  ·  pending  ·  review
+### 260709-195428  ·  yes/good  ·  review
 
 ![260709-195428](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-195428.jpg)
 
@@ -134,7 +136,7 @@ _generated: 2026-07-09T20:34:48.301554+03:00_
 - caption: Travertine holds warmth long after the sun has moved on.  Full-height glass doesn't dissolve structure — it transfers it. The travertine mass anchors the composition; the glass plane extends the interior toward the water without breaking the line. Deep shade …
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-195428&file=render.png
 
-### 260709-195147  ·  pending  ·  review
+### 260709-195147  ·  yes/good  ·  review
 
 ![260709-195147](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-195147.jpg)
 
@@ -146,7 +148,7 @@ _generated: 2026-07-09T20:34:48.301554+03:00_
 - caption: Shade is the first material.  In Aegean heat, the courtyard is climate logic before it is beauty. Warm plaster walls redirect light into a contained luminous chamber; travertine paving holds thermal mass underfoot; a still plane of water lowers the air and an…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-195147&file=render.png
 
-### 260709-194700  ·  pending  ·  review
+### 260709-194700  ·  yes/good  ·  review
 
 ![260709-194700](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-194700.jpg)
 
