@@ -1,20 +1,20 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-10T11:50:05.677573+03:00_
+_generated: 2026-07-10T12:20:14.135006+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **125** · no **79** · pending **2** · total **206**
+- verdicts: yes **126** · no **79** · pending **1** · total **206**
 - ready to publish: **0**
 
 ## DNA summary
 - **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / sculptural / modern (rotate across these, don't converge) Materials: glass / timber / rough_stone / water / white_plaster (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour / ['golden_hour', 'su…
 - **diversity**: Diversity: last 30 posts over-use materials='glass' — deliberately pick a DIFFERENT one (try: timber, rough_stone, water, white_plaster); stay inside A510 DNA.
 - **landscape**: LANDSCAPE is a designed, EXPENSIVE co-star (design it WITH the building, not wild nature). Refined premium landscaping: modern terracing, polished/honed retaining walls, paved terraces, sculptural stairs & paths, curated Mediterranean gardens (mature olives, cypress, pines, palms where fitting, ornamental grasses), premium pool decks, designed outdoor rooms, soft evening landscape lighting. Feels integrated and world-class — not just rough terrain. Owner-confirmed landscape types: terraced, designed_luxury, integrated. Include confirmed features: retaining_walls, mature_garden, terraces, pool…
-- **caption**: Hooks that landed (echo this voice, don't copy): “The cliff doesn't interrupt the view — it frames it.” | “Marble reads as mass. Dark metal holds the edge.” | “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” Owner-preferred length ≈ 93 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace pulls ” | “White plaster holds the heat. Corten marks the threshol…
-- **experience**: Express these EXPERIENCES (owner-confirmed): serenity, escape, privacy, sunset, slow living, arrival.
+- **caption**: Hooks that landed (echo this voice, don't copy): “Marble reads as mass. Dark metal holds the edge.” | “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” | “At dusk, white plaster stops being a surface — it becomes the light itself.” Owner-preferred length ≈ 93 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace pulls ” | “White plaster holds the heat. Co…
+- **experience**: Express these EXPERIENCES (owner-confirmed): serenity, privacy, escape, sunset, slow living, sea breeze.
 
 ## Repeated problems (top rejection reasons)
 - could show more subtle signs of life ×2
@@ -33,7 +33,7 @@ _generated: 2026-07-10T11:50:05.677573+03:00_
 
 ## Recent candidates (40)
 
-### proj-260710-112029  ·  pending  ·  review
+### proj-260710-112029  ·  yes/good  ·  review
 
 - scores: ovr 8.8 · QL 95.0 · A510 90.0 · Bod 95.0 · prem 90.0 · exp 90.0 · arch 85.0
 - experience: privacy, serenity, sunset, slow_living
