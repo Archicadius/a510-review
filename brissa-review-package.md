@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-10T11:19:49.353821+03:00_
+_generated: 2026-07-10T11:50:05.677573+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **125** · no **79** · pending **1** · total **205**
+- verdicts: yes **125** · no **79** · pending **2** · total **206**
 - ready to publish: **0**
 
 ## DNA summary
@@ -32,6 +32,16 @@ _generated: 2026-07-10T11:19:49.353821+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### proj-260710-112029  ·  pending  ·  review
+
+- scores: ovr 8.8 · QL 95.0 · A510 90.0 · Bod 95.0 · prem 90.0 · exp 90.0 · arch 85.0
+- experience: privacy, serenity, sunset, slow_living
+- materials: white_plaster, rough_stone, glass, water
+- architecture: mixed_material
+- brief: белёная вилла у моря, закат
+- caption: At dusk, white plaster stops being a surface — it becomes the light itself.  Sunset on the Aegean isn't atmosphere; it's a design material. The villa is oriented to hold low-angle warmth across the terrace plane, while soffit depth and wall geometry pull shad…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=proj-260710-112029&file=render.png
 
 ### 260710-100608  ·  no/bad  ·  review
 
@@ -501,17 +511,5 @@ _generated: 2026-07-10T11:19:49.353821+03:00_
 - caption: Travertine reads slow. The water line holds the horizon.  Two interlocking volumes: marble base set into grade, white plaster reading light above. Walnut soffits warm the cantilever underside. Bronze at the threshold. The infinity edge bisects the Aegean at t…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-093508&file=render.png
 
-### 260709-093256  ·  no/bad  ·  review
-
-![260709-093256](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260709-093256.jpg)
-
-- scores: ovr 9.5 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 97.0 · exp 95.0 · arch 99.0
-- experience: privacy, serenity, escape, golden_hour
-- materials: rough_stone, travertine, timber, glass
-- architecture: mixed_material
-- brief: Студия проигрывает телефону
-- caption: Bronze at the joint. Walnut at the threshold.  Travertine base roots the structure to the slope; white plaster volumes rise clean above it. Bronze marks every transition — not as ornament, but as material grammar. The infinity pool extends the stone plane out…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260709-093256&file=render.png
-
 ---
-_thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
+_thumbnails mirrored: 39 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
