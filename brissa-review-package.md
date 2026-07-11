@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-10T15:25:44.944451+03:00_
+_generated: 2026-07-11T09:35:47.944846+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **144** · no **84** · pending **1** · total **229**
+- verdicts: yes **144** · no **84** · pending **3** · total **231**
 - ready to publish: **0**
 
 ## DNA summary
@@ -32,6 +32,30 @@ _generated: 2026-07-10T15:25:44.944451+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260711-093517  ·  pending  ·  review
+
+![260711-093517](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260711-093517.jpg)
+
+- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 100
+- experience: arrival, privacy, serenity, escape
+- materials: honed_stone, timber, glass, water
+- architecture: mixed_material
+- brief: Строят половину того, что нужно.
+- caption: Half a brief builds half a house.  Architecture is a resolved system — program, proportion, material, light. Marble holds the plane. Travertine sets the ground. Bronze anchors the threshold. When the brief is abbreviated, these relationships never fully close…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-093517&file=render.png
+
+### 260711-093232  ·  pending  ·  review
+
+![260711-093232](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260711-093232.jpg)
+
+- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 100
+- experience: privacy, serenity, escape, sunset
+- materials: rough_stone, travertine, timber, glass
+- architecture: mixed_material
+- brief: +17% на бумаге. −12% по-настоящему.
+- caption: Bronze resolves the threshold. Travertine holds the plane.  The precision here is in hierarchy — a white plaster volume that accepts its shadow work without competing with it, stone coursing that anchors the mass at terrace level, walnut soffits catching the …
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-093232&file=render.png
 
 ### hf-D-cliff  ·  yes/good  ·  review
 
@@ -396,30 +420,6 @@ _generated: 2026-07-10T15:25:44.944451+03:00_
 - brief: modern Mediterranean villa, white and warm plaster with timber, minimal arches, bright and elegant
 - caption: Light doesn't fall on this house — it moves through it.  White and warm plaster in dialogue with timber establishes a calm the eye reads as stillness. The arch, used sparingly, is compression before the open span — not decoration. Bronze holds the threshold; …
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260710-093429&file=render.png
-
-### 260710-093311  ·  yes/perfect  ·  review
-
-![260710-093311](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260710-093311.jpg)
-
-- scores: ovr 9.0 · QL 98.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 92.0 · arch 100
-- experience: privacy, serenity, escape, sunset
-- materials: travertine, dark_metal, glass, timber
-- architecture: mixed_material
-- brief: Спа не пристраивают. Восстановление проектируют в стены.
-- caption: Travertine holds the plane. Walnut draws the warmth.  No surface here is neutral — each material carries its weight in light. Marble governs mass; bronze anchors the junction; warm plaster diffuses the afternoon inward. The pool terrace doesn't conclude the a…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260710-093311&file=render.png
-
-### 260710-093141  ·  no/bad  ·  review
-
-![260710-093141](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260710-093141.jpg)
-
-- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 100
-- experience: arrival, privacy, serenity, escape
-- materials: rough_stone, timber, glass, water
-- architecture: mixed_material
-- brief: architectural interior — living / kitchen / spa, refined premium materials, light, sea view
-- caption: Interior light on the Aegean doesn't fill a room — it moves through it.  Travertine floors carry warmth from terrace to kitchen. Bronze and walnut at every threshold mark how the house shifts register as you move inward. Glass holds the horizon at the precise…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260710-093141&file=render.png
 
 ---
 _thumbnails mirrored: 38 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
