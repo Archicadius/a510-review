@@ -1,39 +1,39 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-11T10:05:54.957682+03:00_
+_generated: 2026-07-11T10:36:00.961804+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **144** · no **84** · pending **6** · total **234**
+- verdicts: yes **147** · no **86** · pending **1** · total **234**
 - ready to publish: **0**
 
 ## DNA summary
 - **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / sculptural / modern (rotate across these, don't converge) Materials: glass / timber / rough_stone / water / white_plaster (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour / ['golden_hour', 'su…
 - **diversity**: Diversity: last 30 posts over-use materials='rough_stone' — deliberately pick a DIFFERENT one (try: glass, timber, water, white_plaster); stay inside A510 DNA.
 - **landscape**: LANDSCAPE is a designed, EXPENSIVE co-star (design it WITH the building, not wild nature). Refined premium landscaping: modern terracing, polished/honed retaining walls, paved terraces, sculptural stairs & paths, curated Mediterranean gardens (mature olives, cypress, pines, palms where fitting, ornamental grasses), premium pool decks, designed outdoor rooms, soft evening landscape lighting. Feels integrated and world-class — not just rough terrain. Owner-confirmed landscape types: terraced, designed_luxury, integrated. Include confirmed features: retaining_walls, mature_garden, terraces, pool…
-- **caption**: Hooks that landed (echo this voice, don't copy): “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” | “At dusk, white plaster stops being a surface — it becomes the light itself.” | “When stone and bronze resolve at this precision, light stops being atmosphere — it becomes” Owner-preferred length ≈ 93 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace p…
-- **experience**: Express these EXPERIENCES (owner-confirmed): serenity, sunset, privacy, escape, slow living, sea breeze.
+- **caption**: Hooks that landed (echo this voice, don't copy): “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” | “At dusk, white plaster stops being a surface — it becomes the light itself.” | “When stone and bronze resolve at this precision, light stops being atmosphere — it becomes” Owner-preferred length ≈ 94 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace p…
+- **experience**: Express these EXPERIENCES (owner-confirmed): serenity, sunset, privacy, escape, slow living, arrival.
 
 ## Repeated problems (top rejection reasons)
 - could show more subtle signs of life ×2
+- limited material palette variety ×1
+- no visible furniture or subtle signs of life ×1
+- foreground planting could be slightly more mature in some areas ×1
 - limited interior visibility ×1
 - material palette focused on one mode ×1
 - triptych format less common for single instagram post ×1
 - could show more interior detail ×1
 - minimal visible interior detail ×1
 - central arch could be slightly less ornate for some a510 modes ×1
-- outdoor dining furniture is functional but not sculptural ×1
-- top-left wide shot could have more dramatic sky/foreground ×1
-- static composition ×1
 
 ## Ready to publish
 - (none)
 
 ## Recent candidates (40)
 
-### 260711-094450  ·  pending  ·  review
+### 260711-094450  ·  no/bad  ·  review
 
 ![260711-094450](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260711-094450.jpg)
 
@@ -45,7 +45,7 @@ _generated: 2026-07-11T10:05:54.957682+03:00_
 - caption: Marble holds the plane. Bronze resolves the edge. What remains is an argument with the horizon.  At this precision of material assembly, each surface makes a claim about the light it receives. Travertine warms differently than polished stone; warm plaster dis…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-094450&file=render.png
 
-### 260711-094054  ·  pending  ·  review
+### 260711-094054  ·  yes/good  ·  review
 
 ![260711-094054](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260711-094054.jpg)
 
@@ -57,7 +57,7 @@ _generated: 2026-07-11T10:05:54.957682+03:00_
 - caption: Four months of full light demand a different kind of precision.  When the occupancy window is short, every spatial decision carries more weight. The threshold between terrace and water isn't a gesture — it's orientation, proportion, the choice of travertine a…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-094054&file=render.png
 
-### 260711-093802  ·  pending  ·  review
+### 260711-093802  ·  yes/good  ·  review
 
 ![260711-093802](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260711-093802.jpg)
 
@@ -69,7 +69,7 @@ _generated: 2026-07-11T10:05:54.957682+03:00_
 - caption: Travertine holds the plane. The Aegean does the rest.  Each terrace steps with the slope to compress, then release — thresholds that control where light arrives and how far the eye travels before it meets water. Marble and bronze resolve the joints. The pool …
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-093802&file=render.png
 
-### 260711-093517  ·  pending  ·  review
+### 260711-093517  ·  yes/good  ·  review
 
 ![260711-093517](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260711-093517.jpg)
 
@@ -81,7 +81,7 @@ _generated: 2026-07-11T10:05:54.957682+03:00_
 - caption: Half a brief builds half a house.  Architecture is a resolved system — program, proportion, material, light. Marble holds the plane. Travertine sets the ground. Bronze anchors the threshold. When the brief is abbreviated, these relationships never fully close…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-093517&file=render.png
 
-### 260711-093232  ·  pending  ·  review
+### 260711-093232  ·  no/bad  ·  review
 
 ![260711-093232](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260711-093232.jpg)
 
