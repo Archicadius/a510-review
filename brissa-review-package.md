@@ -1,17 +1,17 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-12T09:39:56.383029+03:00_
+_generated: 2026-07-12T10:10:02.446941+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **147** · no **86** · pending **4** · total **237**
+- verdicts: yes **147** · no **86** · pending **6** · total **239**
 - ready to publish: **0**
 
 ## DNA summary
 - **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / sculptural / modern (rotate across these, don't converge) Materials: glass / timber / rough_stone / water / white_plaster (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour / ['golden_hour', 'su…
-- **diversity**: Diversity: last 30 posts over-use materials='rough_stone' — deliberately pick a DIFFERENT one (try: glass, timber, water, white_plaster); stay inside A510 DNA.
+- **diversity**: Diversity: last 30 posts over-use materials='glass' — deliberately pick a DIFFERENT one (try: timber, rough_stone, water, white_plaster); stay inside A510 DNA.
 - **landscape**: LANDSCAPE is a designed, EXPENSIVE co-star (design it WITH the building, not wild nature). Refined premium landscaping: modern terracing, polished/honed retaining walls, paved terraces, sculptural stairs & paths, curated Mediterranean gardens (mature olives, cypress, pines, palms where fitting, ornamental grasses), premium pool decks, designed outdoor rooms, soft evening landscape lighting. Feels integrated and world-class — not just rough terrain. Owner-confirmed landscape types: terraced, designed_luxury, integrated. Include confirmed features: retaining_walls, mature_garden, terraces, pool…
 - **caption**: Hooks that landed (echo this voice, don't copy): “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” | “At dusk, white plaster stops being a surface — it becomes the light itself.” | “When stone and bronze resolve at this precision, light stops being atmosphere — it becomes” Owner-preferred length ≈ 94 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace p…
 - **experience**: Express these EXPERIENCES (owner-confirmed): serenity, sunset, privacy, escape, slow living, arrival.
@@ -32,6 +32,30 @@ _generated: 2026-07-12T09:39:56.383029+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260712-094703  ·  pending  ·  review
+
+![260712-094703](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-094703.jpg)
+
+- scores: ovr 9.5 · QL 99.0 · A510 98.0 · Bod 95.0 · prem 98.0 · exp 97.0 · arch 90.0
+- experience: arrival, privacy, serenity, sunset
+- materials: honed_stone, timber, glass, water
+- architecture: mixed_material
+- brief: Деньги и ключи переходят в одну секунду.
+- caption: Compression first, then release — that is how arrival becomes architecture.  Stone grounds the plinth; plaster rises clear of it. Bronze at the detail scale sets the cadence that walnut carries inside. The infinity terrace doesn't mark the edge of the house —…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-094703&file=render.png
+
+### 260712-094137  ·  pending  ·  review
+
+![260712-094137](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-094137.jpg)
+
+- scores: ovr 9.3 · QL 98.0 · A510 98.0 · Bod 98.0 · prem 97.0 · exp 95.0 · arch 100
+- experience: arrival, privacy, serenity, escape
+- materials: rough_stone, glass, timber, water
+- architecture: mixed_material
+- brief: Три льготы живут в одном доме.
+- caption: Three elevations. One connecting idea.  Marble grounds the arrival; warm plaster lifts the main volume; travertine meets the horizon at the upper terrace. The materials evolve across levels rather than repeat — each plane earns its own relationship with the s…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-094137&file=render.png
 
 ### 260712-093810  ·  pending  ·  review
 
@@ -396,30 +420,6 @@ _generated: 2026-07-12T09:39:56.383029+03:00_
 - brief: white plaster and marble villa, bright and airy, sea-facing, clear morning light
 - caption: Morning light doesn't illuminate white plaster — it reveals its geometry.  When marble and plaster share a wall, architecture stops being decorative and becomes structural in light. The villa's planes are calibrated to the Aegean morning — walls that catch an…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260710-094915&file=render.png
-
-### 260710-094908  ·  yes/good  ·  review
-
-![260710-094908](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260710-094908.jpg)
-
-- scores: ovr 8.9 · QL 93.0 · A510 95.0 · Bod 90.0 · prem 92.0 · exp 90.0 · arch 98.0
-- experience: arrival, privacy, serenity, escape
-- materials: travertine, rough_stone, timber, glass
-- architecture: mixed_material
-- brief: Тень стоит денег. Камень держит температуру. Счёт это знает.
-- caption: Shadow is the architect's most precise material.  Deep horizontal planes calibrate the sun's angle across travertine and warm plaster. The building isn't shaded — it is tuned: stone absorbs and releases across the day, and walnut and bronze mark the threshold…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260710-094908&file=render.png
-
-### 260710-094548  ·  no/bad  ·  review
-
-![260710-094548](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260710-094548.jpg)
-
-- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 95.0 · arch 100
-- experience: privacy, serenity, escape, timeless_luxury
-- materials: travertine, rough_stone, glass, water
-- architecture: mixed_material
-- brief: Гости пишут одно слово. И оно поднимает цену.
-- caption: Architecture that names itself.  The plan resolves as a sequence of thresholds — travertine anchoring the ground, glass releasing the horizon, bronze and walnut registering the maker's hand at every aperture. Each material transition is a considered decision:…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260710-094548&file=render.png
 
 ---
 _thumbnails mirrored: 38 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
