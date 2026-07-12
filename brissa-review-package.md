@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-11T23:08:37.977060+03:00_
+_generated: 2026-07-12T09:39:56.383029+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **147** · no **86** · pending **1** · total **234**
+- verdicts: yes **147** · no **86** · pending **4** · total **237**
 - ready to publish: **0**
 
 ## DNA summary
@@ -17,7 +17,6 @@ _generated: 2026-07-11T23:08:37.977060+03:00_
 - **experience**: Express these EXPERIENCES (owner-confirmed): serenity, sunset, privacy, escape, slow living, arrival.
 
 ## Repeated problems (top rejection reasons)
-- could show more subtle signs of life ×2
 - limited material palette variety ×1
 - no visible furniture or subtle signs of life ×1
 - foreground planting could be slightly more mature in some areas ×1
@@ -26,12 +25,49 @@ _generated: 2026-07-11T23:08:37.977060+03:00_
 - triptych format less common for single instagram post ×1
 - could show more interior detail ×1
 - minimal visible interior detail ×1
+- could show more subtle signs of life ×1
 - central arch could be slightly less ornate for some a510 modes ×1
 
 ## Ready to publish
 - (none)
 
 ## Recent candidates (40)
+
+### 260712-093810  ·  pending  ·  review
+
+![260712-093810](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-093810.jpg)
+
+- scores: ovr 9.0 · QL 98.0 · A510 95.0 · Bod 98.0 · prem 95.0 · exp 95.0 · arch 95.0
+- experience: arrival, privacy, serenity, escape
+- materials: rough_stone, timber, glass, water
+- architecture: mixed_material
+- brief: 20 лет. И окно открылось задним числом.
+- caption: The Aegean doesn't need to be framed. It needs to be earned.  Travertine anchors the base; warm plaster lifts the volume above it. The terrace is not an amenity — it is the architecture resolving itself toward water. At this latitude, proportion is not aesthe…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-093810&file=render.png
+
+### 260712-093453  ·  pending  ·  review
+
+![260712-093453](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-093453.jpg)
+
+- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 95.0 · prem 95.0 · exp 95.0 · arch 100
+- experience: arrival, privacy, serenity, escape
+- materials: rough_stone, timber, glass, warm_plaster
+- architecture: mixed_material
+- brief: Через три года ты выходишь. Здание без бумаг — со скидкой.
+- caption: Marble resolves the plane. Bronze draws the edge.  When material and proportion meet at this precision — travertine against warm plaster, walnut against open sky — the building stops performing and starts belonging. Light on the Aegean is lateral and relentle…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-093453&file=render.png
+
+### 260712-093223  ·  pending  ·  review
+
+![260712-093223](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-093223.jpg)
+
+- scores: ovr 8.8 · QL 98.0 · A510 95.0 · Bod 98.0 · prem 95.0 · exp 95.0 · arch 98.0
+- experience: arrival, privacy, serenity, escape
+- materials: rough_stone, glass, dark_metal, water
+- architecture: mixed_material
+- brief: Новый закон чинит титул бесплатно. Кроме Бодрума.
+- caption: Proportion is the first material.  Where the terrace cantilevers over the coast, structural logic and spatial experience become the same thing. Travertine holds weight thermally and visually — slowing light to an oblique angle rather than a flat noon glare. B…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-093223&file=render.png
 
 ### 260711-094450  ·  no/bad  ·  review
 
@@ -384,42 +420,6 @@ _generated: 2026-07-11T23:08:37.977060+03:00_
 - brief: Гости пишут одно слово. И оно поднимает цену.
 - caption: Architecture that names itself.  The plan resolves as a sequence of thresholds — travertine anchoring the ground, glass releasing the horizon, bronze and walnut registering the maker's hand at every aperture. Each material transition is a considered decision:…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260710-094548&file=render.png
-
-### 260710-094411  ·  yes/good  ·  review
-
-![260710-094411](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260710-094411.jpg)
-
-- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 95.0 · prem 95.0 · exp 90.0 · arch 90.0
-- experience: arrival, privacy, serenity, escape
-- materials: rough_stone, glass, timber, water
-- architecture: mixed_material
-- brief: harbor context, villa terrace above a marina, tasteful boats, architecture the real subject
-- caption: A terrace is not a platform. It is a proposition about where land ends.  The section steps with the slope — each plane a new threshold between structure and open sky. Marble and travertine hold the foreground weight; the harbor below calibrates the distance. …
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260710-094411&file=render.png
-
-### 260710-094052  ·  yes/good  ·  review
-
-![260710-094052](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260710-094052.jpg)
-
-- scores: ovr 9.5 · QL 99.0 · A510 98.0 · Bod 95.0 · prem 98.0 · exp 95.0 · arch 100
-- experience: arrival, privacy, serenity, escape
-- materials: travertine, rough_stone, glass, timber
-- architecture: mixed_material
-- brief: travertine and full-height glass quiet-luxury villa, refined proportions, deep shade, soft sunset
-- caption: Full-height glass doesn't erase the wall — it redefines what the wall can do.  Travertine reads as permanence before the eye registers proportion. Against it, floor-to-ceiling glazing isn't absence — it's precision: a plane held between mass and sky. The deep…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260710-094052&file=render.png
-
-### 260710-093856  ·  yes/good  ·  review
-
-![260710-093856](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260710-093856.jpg)
-
-- scores: ovr 9.2 · QL 95.0 · A510 95.0 · Bod 95.0 · prem 95.0 · exp 95.0 · arch 98.0
-- experience: arrival, privacy, serenity, celebration
-- materials: rough_stone, travertine, glass, timber
-- architecture: mixed_material
-- brief: Лучшая комната в доме — без стен. Мы достраиваем её до конца.
-- caption: The best room has no walls. Good architecture finishes it anyway.  Travertine moves from slab to terrace without interruption. The walnut soffit pulls interior warmth to the open edge; the pool holds the horizon as a single plane. The threshold is a design de…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260710-093856&file=render.png
 
 ---
 _thumbnails mirrored: 38 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
