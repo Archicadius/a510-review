@@ -1,6 +1,6 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-12T10:10:02.446941+03:00_
+_generated: 2026-07-13T08:53:17.339933+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
@@ -185,13 +185,13 @@ _generated: 2026-07-12T10:10:02.446941+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-D-courtyard&file=render.png
 
-### hf-D-detail  ·  yes/perfect  ·  review
+### hf-D-detail  ·  yes/good  ·  published
 
 ![hf-D-detail](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-D-detail.jpg)
 
 - scores: no-critic
 - architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-D-detail&file=render.png
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=published&id=hf-D-detail&file=render.png
 
 ### hf-D-olive  ·  no/bad  ·  review
 
