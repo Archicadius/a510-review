@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-13T08:53:17.339933+03:00_
+_generated: 2026-07-13T23:25:19.510316+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **147** · no **86** · pending **6** · total **239**
+- verdicts: yes **150** · no **88** · pending **1** · total **239**
 - ready to publish: **0**
 
 ## DNA summary
@@ -17,23 +17,23 @@ _generated: 2026-07-13T08:53:17.339933+03:00_
 - **experience**: Express these EXPERIENCES (owner-confirmed): serenity, sunset, privacy, escape, slow living, arrival.
 
 ## Repeated problems (top rejection reasons)
+- car slightly pulls focus (minor) ×1
+- gravel driveway could be more refined (minor) ×1
+- interior lighting could be more varied ×1
+- minimal furniture visible ×1
+- some repetition in stone texture ×1
 - limited material palette variety ×1
 - no visible furniture or subtle signs of life ×1
 - foreground planting could be slightly more mature in some areas ×1
 - limited interior visibility ×1
 - material palette focused on one mode ×1
-- triptych format less common for single instagram post ×1
-- could show more interior detail ×1
-- minimal visible interior detail ×1
-- could show more subtle signs of life ×1
-- central arch could be slightly less ornate for some a510 modes ×1
 
 ## Ready to publish
 - (none)
 
 ## Recent candidates (40)
 
-### 260712-094703  ·  pending  ·  review
+### 260712-094703  ·  no/bad  ·  review
 
 ![260712-094703](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-094703.jpg)
 
@@ -45,7 +45,7 @@ _generated: 2026-07-13T08:53:17.339933+03:00_
 - caption: Compression first, then release — that is how arrival becomes architecture.  Stone grounds the plinth; plaster rises clear of it. Bronze at the detail scale sets the cadence that walnut carries inside. The infinity terrace doesn't mark the edge of the house —…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-094703&file=render.png
 
-### 260712-094137  ·  pending  ·  review
+### 260712-094137  ·  yes/perfect  ·  review
 
 ![260712-094137](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-094137.jpg)
 
@@ -57,7 +57,7 @@ _generated: 2026-07-13T08:53:17.339933+03:00_
 - caption: Three elevations. One connecting idea.  Marble grounds the arrival; warm plaster lifts the main volume; travertine meets the horizon at the upper terrace. The materials evolve across levels rather than repeat — each plane earns its own relationship with the s…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-094137&file=render.png
 
-### 260712-093810  ·  pending  ·  review
+### 260712-093810  ·  yes/good  ·  review
 
 ![260712-093810](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-093810.jpg)
 
@@ -69,7 +69,7 @@ _generated: 2026-07-13T08:53:17.339933+03:00_
 - caption: The Aegean doesn't need to be framed. It needs to be earned.  Travertine anchors the base; warm plaster lifts the volume above it. The terrace is not an amenity — it is the architecture resolving itself toward water. At this latitude, proportion is not aesthe…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-093810&file=render.png
 
-### 260712-093453  ·  pending  ·  review
+### 260712-093453  ·  yes/perfect  ·  review
 
 ![260712-093453](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-093453.jpg)
 
@@ -81,7 +81,7 @@ _generated: 2026-07-13T08:53:17.339933+03:00_
 - caption: Marble resolves the plane. Bronze draws the edge.  When material and proportion meet at this precision — travertine against warm plaster, walnut against open sky — the building stops performing and starts belonging. Light on the Aegean is lateral and relentle…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-093453&file=render.png
 
-### 260712-093223  ·  pending  ·  review
+### 260712-093223  ·  no/bad  ·  review
 
 ![260712-093223](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-093223.jpg)
 
