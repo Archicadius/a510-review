@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-14T15:28:10.614129+03:00_
+_generated: 2026-07-14T15:58:17.447693+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **160** · no **100** · pending **1** · total **261**
+- verdicts: yes **160** · no **105** · pending **1** · total **266**
 - ready to publish: **0**
 
 ## DNA summary
@@ -17,21 +17,81 @@ _generated: 2026-07-14T15:28:10.614129+03:00_
 - **experience**: Express these EXPERIENCES (owner-confirmed): serenity, privacy, escape, sunset, slow living, arrival.
 
 ## Repeated problems (top rejection reasons)
-- limited material palette variety ×3
+- limited material palette variety ×6
+- foreground planting slightly repetitive ×1
+- limited material variety ×1
+- interior view slightly dark ×1
+- no pool feature ×1
+- limited material palette ×1
+- distant boats are generic ×1
+- minimal furniture presence ×1
 - single person is a bit generic ×1
 - outdoor furniture is minimal/unseen ×1
-- could show more interior warmth ×1
-- person's outfit is generic ×1
-- rough stone could be slightly more refined in some areas ×1
-- people slightly prominent on balcony ×1
-- too generic ×1
-- concrete texture could be slightly more refined in some areas ×1
-- limited material variety (mostly travertine) ×1
 
 ## Ready to publish
 - (none)
 
 ## Recent candidates (40)
+
+### 260714-155448  ·  no/bad  ·  review
+
+![260714-155448](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-155448.jpg)
+
+- scores: ovr 8.8 · QL 95.0 · A510 95.0 · Bod 98.0 · prem 92.0 · exp 90.0 · arch 98.0
+- experience: privacy, serenity, escape, morning_light
+- materials: rough_stone, timber, glass, water
+- architecture: stone_villa
+- brief: одноэтажная L-образная вилла из светлого известняка, врезанная в террасированный сад, сухие каменные подпорные стенки, лестницы, оливковая роща и кипарисы, стриженый розмарин и лаванда, вид сверху-сбоку, мягкий утренний…
+- caption: An L-plan is a topographic decision before it is a formal one.  One wing anchors into the slope; the other opens to the bay. Laid in cut limestone at the scale of the retaining walls below, the building reads as discovery rather than imposition. The negative …
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-155448&file=render.png
+
+### 260714-155146  ·  no/bad  ·  review
+
+![260714-155146](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-155146.jpg)
+
+- scores: ovr 8.3 · QL 90.0 · A510 90.0 · Bod 95.0 · prem 85.0 · exp 85.0 · arch 95.0
+- experience: privacy, serenity, escape, morning_light
+- materials: rough_stone, glass, timber, water
+- architecture: stone_villa
+- brief: одноэтажная L-образная вилла из светлого известняка, врезанная в террасированный сад, сухие каменные подпорные стенки, лестницы, оливковая роща и кипарисы, стриженый розмарин и лаванда, вид сверху-сбоку, мягкий утренний…
+- caption: The L is not a layout — it is a conversation between shelter and horizon.  One arm turns inward; one faces the water. When building and retaining landscape share the same stone, the threshold between formed earth and formed shelter disappears. Morning light e…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-155146&file=render.png
+
+### 260714-154447  ·  no/never  ·  review
+
+![260714-154447](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-154447.jpg)
+
+- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 92.0 · exp 90.0 · arch 95.0
+- experience: privacy, serenity, escape, morning_light
+- materials: rough_stone, limestone, glass, water
+- architecture: stone_villa
+- brief: одноэтажная L-образная вилла из светлого известняка, врезанная в террасированный сад, сухие каменные подпорные стенки, лестницы, оливковая роща и кипарисы, стриженый розмарин и лаванда, вид сверху-сбоку, мягкий утренний…
+- caption: The L-form doesn't decorate the slope — it negotiates it.  One wing opens toward the bay; the other roots into the hill. Limestone was chosen for thermal logic as much as tone — it holds the morning cool and releases it slowly. Threshold by threshold, the pla…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-154447&file=render.png
+
+### 260714-154157  ·  no/bad  ·  review
+
+![260714-154157](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-154157.jpg)
+
+- scores: ovr 9.3 · QL 95.0 · A510 95.0 · Bod 98.0 · prem 93.0 · exp 90.0 · arch 98.0
+- experience: privacy, serenity, escape, morning_light
+- materials: rough_stone, limestone, glass, water
+- architecture: stone_villa
+- brief: одноэтажная L-образная вилла из светлого известняка, врезанная в террасированный сад, сухие каменные подпорные стенки, лестницы, оливковая роща и кипарисы, стриженый розмарин и лаванда, вид сверху-сбоку, мягкий утренний…
+- caption: The L answers the topography. The garden does the rest.  Single-story mass stays low not from restraint but precision — so the limestone plane reads as hillside extension, not interruption. The L-form creates two orientations: bay-facing and inward to the oli…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-154157&file=render.png
+
+### 260714-153908  ·  no/bad  ·  review
+
+![260714-153908](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-153908.jpg)
+
+- scores: ovr 9.0 · QL 98.0 · A510 95.0 · Bod 95.0 · prem 95.0 · exp 95.0 · arch 98.0
+- experience: arrival, privacy, serenity, escape
+- materials: rough_stone, glass, water
+- architecture: stone_villa
+- brief: одноэтажная L-образная вилла из светлого известняка, врезанная в террасированный сад, сухие каменные подпорные стенки, лестницы, оливковая роща и кипарисы, стриженый розмарин и лаванда, вид сверху-сбоку, мягкий утренний…
+- caption: The L-plan is a choice: which light to hold and which to release.  One wing settles into the hillside; the other rotates toward the bay. Light limestone earns its place through the range between cool morning and heavy afternoon sun — the material is selected …
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-153908&file=render.png
 
 ### 260714-151516  ·  no/bad  ·  review
 
@@ -441,47 +501,5 @@ _generated: 2026-07-14T15:28:10.614129+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=published&id=hf-D-night&file=render.png
 
-### hf-D-courtyard  ·  yes/good  ·  review
-
-![hf-D-courtyard](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-D-courtyard.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-D-courtyard&file=render.png
-
-### hf-D-detail  ·  yes/good  ·  published
-
-![hf-D-detail](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-D-detail.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=published&id=hf-D-detail&file=render.png
-
-### hf-D-olive  ·  no/bad  ·  review
-
-![hf-D-olive](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-D-olive.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-D-olive&file=render.png
-
-### hf-D-interior  ·  yes/perfect  ·  review
-
-![hf-D-interior](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-D-interior.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-D-interior&file=render.png
-
-### proj-260710-150757  ·  yes/perfect  ·  review
-
-- scores: ovr 9.4 · QL 100 · A510 98.0 · Bod 100 · prem 100 · exp 98.0 · arch 90.0
-- experience: sunset, serenity, quiet_luxury, desire_to_live_there
-- materials: travertine, honed_stone, timber, glass
-- architecture: contemporary
-- brief: премиальная outdoor-зона у бассейна, вилла, золотой час
-- caption: When stone and bronze resolve at this precision, light stops being atmosphere — it becomes structure.  The outdoor zone is not amenity — it is spatial extension of the house's interior logic: mass, material hierarchy, proportion uninterrupted. At golden hour,…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=proj-260710-150757&file=render.png
-
 ---
-_thumbnails mirrored: 39 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
+_thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
