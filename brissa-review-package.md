@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-14T09:57:13.394839+03:00_
+_generated: 2026-07-14T11:27:30.640647+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **150** · no **88** · pending **6** · total **244**
+- verdicts: yes **153** · no **90** · pending **1** · total **244**
 - ready to publish: **0**
 
 ## DNA summary
@@ -17,23 +17,23 @@ _generated: 2026-07-14T09:57:13.394839+03:00_
 - **experience**: Express these EXPERIENCES (owner-confirmed): serenity, sunset, privacy, escape, slow living, arrival.
 
 ## Repeated problems (top rejection reasons)
+- limited material palette variety ×2
+- could show more interior detail ×2
+- dining table styling could be slightly more 'lived-in' ×1
 - car slightly pulls focus (minor) ×1
 - gravel driveway could be more refined (minor) ×1
 - interior lighting could be more varied ×1
 - minimal furniture visible ×1
 - some repetition in stone texture ×1
-- limited material palette variety ×1
 - no visible furniture or subtle signs of life ×1
 - foreground planting could be slightly more mature in some areas ×1
-- limited interior visibility ×1
-- material palette focused on one mode ×1
 
 ## Ready to publish
 - (none)
 
 ## Recent candidates (40)
 
-### 260714-094248  ·  pending  ·  review
+### 260714-094248  ·  yes/perfect  ·  review
 
 ![260714-094248](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-094248.jpg)
 
@@ -45,7 +45,7 @@ _generated: 2026-07-14T09:57:13.394839+03:00_
 - caption: Marble holds the threshold. Bronze draws the depth.  The interior is organized around one idea — the sea is not a backdrop but the far wall. Travertine runs continuous from terrace to interior, dissolving the line between shelter and landscape. Walnut and bro…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-094248&file=render.png
 
-### 260714-094032  ·  pending  ·  review
+### 260714-094032  ·  yes/perfect  ·  review
 
 ![260714-094032](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-094032.jpg)
 
@@ -57,7 +57,7 @@ _generated: 2026-07-14T09:57:13.394839+03:00_
 - caption: The paved court is not a border — it is the agreement between house and garden.  Travertine underfoot and warm plaster above resolve without transition: only the bronze threshold marks where the interior axis ends and the landscape begins. The pool is the pla…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-094032&file=render.png
 
-### 260714-093748  ·  pending  ·  review
+### 260714-093748  ·  no/bad  ·  review
 
 ![260714-093748](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-093748.jpg)
 
@@ -69,7 +69,7 @@ _generated: 2026-07-14T09:57:13.394839+03:00_
 - caption: The hillside isn't tamed — it's translated.  Retaining walls become the architecture itself: each terrace steps with the natural contour, alternating compression and release — shade giving way to open sky. Marble and travertine hold the horizontal planes; wal…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-093748&file=render.png
 
-### 260714-093514  ·  pending  ·  review
+### 260714-093514  ·  yes/good  ·  review
 
 ![260714-093514](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-093514.jpg)
 
@@ -81,7 +81,7 @@ _generated: 2026-07-14T09:57:13.394839+03:00_
 - caption: The water line is not a view. It is a design parameter.  Travertine terraces step toward the Aegean in calibrated intervals — each plane negotiating the threshold between shelter and exposure. Bronze and walnut anchor the interior; polished stone carries ligh…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-093514&file=render.png
 
-### 260714-093223  ·  pending  ·  review
+### 260714-093223  ·  no/bad  ·  review
 
 ![260714-093223](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-093223.jpg)
 
