@@ -1,13 +1,13 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-14T15:58:17.447693+03:00_
+_generated: 2026-07-15T02:30:03.247298+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
 - verdicts: yes **160** · no **105** · pending **1** · total **266**
-- ready to publish: **0**
+- ready to publish: **1**
 
 ## DNA summary
 - **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / sculptural / modern (rotate across these, don't converge) Materials: glass / timber / rough_stone / water / white_plaster (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour / ['golden_hour', 'su…
@@ -29,7 +29,7 @@ _generated: 2026-07-14T15:58:17.447693+03:00_
 - outdoor furniture is minimal/unseen ×1
 
 ## Ready to publish
-- (none)
+- 260714-094032
 
 ## Recent candidates (40)
 
@@ -309,7 +309,7 @@ _generated: 2026-07-14T15:58:17.447693+03:00_
 - caption: Marble holds the threshold. Bronze draws the depth.  The interior is organized around one idea — the sea is not a backdrop but the far wall. Travertine runs continuous from terrace to interior, dissolving the line between shelter and landscape. Walnut and bro…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-094248&file=render.png
 
-### 260714-094032  ·  yes/perfect  ·  review
+### 260714-094032  ·  yes/perfect  ·  ready
 
 ![260714-094032](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-094032.jpg)
 
@@ -319,7 +319,7 @@ _generated: 2026-07-14T15:58:17.447693+03:00_
 - architecture: mixed_material
 - brief: современный средиземноморский сад и мощёный двор-патио
 - caption: The paved court is not a border — it is the agreement between house and garden.  Travertine underfoot and warm plaster above resolve without transition: only the bronze threshold marks where the interior axis ends and the landscape begins. The pool is the pla…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-094032&file=render.png
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=ready&id=260714-094032&file=render.png
 
 ### 260714-093748  ·  no/bad  ·  review
 
