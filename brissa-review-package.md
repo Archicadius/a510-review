@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-14T11:27:30.640647+03:00_
+_generated: 2026-07-14T14:58:02.878395+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **153** · no **90** · pending **1** · total **244**
+- verdicts: yes **153** · no **90** · pending **9** · total **252**
 - ready to publish: **0**
 
 ## DNA summary
@@ -18,8 +18,8 @@ _generated: 2026-07-14T11:27:30.640647+03:00_
 
 ## Repeated problems (top rejection reasons)
 - limited material palette variety ×2
-- could show more interior detail ×2
 - dining table styling could be slightly more 'lived-in' ×1
+- could show more interior detail ×1
 - car slightly pulls focus (minor) ×1
 - gravel driveway could be more refined (minor) ×1
 - interior lighting could be more varied ×1
@@ -32,6 +32,102 @@ _generated: 2026-07-14T11:27:30.640647+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260714-145626  ·  pending  ·  review
+
+![260714-145626](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-145626.jpg)
+
+- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 98.0 · prem 95.0 · exp 98.0 · arch 90.0
+- experience: arrival, privacy, serenity, escape
+- materials: rough_stone, dark_metal, glass, water
+- architecture: contemporary
+- brief: atmosphere of place — evening / sunset / sea / distant yachts / villa lights / reflections, architecture present
+- caption: At dusk, travertine stops being a floor — it becomes the surface that holds the sea.  At evening, every material decision is tested. Bronze thresholds cool slowly; warm plaster holds the last light; the terrace edge refuses to compete with the horizon. Togeth…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-145626&file=render.png
+
+### 260714-145347  ·  pending  ·  review
+
+![260714-145347](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-145347.jpg)
+
+- scores: ovr 9.2 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 94.0 · exp 92.0 · arch 98.0
+- experience: arrival, privacy, serenity, escape
+- materials: corten, glass, rough_stone, timber
+- architecture: mixed_material
+- brief: material & detail — corten, bronze, sculptural stair, timber joinery, glass; close texture and light
+- caption: Bronze resolves at the threshold. Marble takes the weight.  Where two materials meet — corten accent against polished travertine — a building states its logic most precisely. The sculptural stair isn't circulation; it's a carved section through the volume, dr…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-145347&file=render.png
+
+### 260714-144929  ·  pending  ·  review
+
+![260714-144929](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-144929.jpg)
+
+- scores: ovr 9.5 · QL 99.0 · A510 98.0 · Bod 95.0 · prem 98.0 · exp 95.0 · arch 100
+- experience: arrival, privacy, serenity, escape
+- materials: refined_concrete, glass, timber, rough_stone
+- architecture: contemporary
+- brief: cliff architecture, villa on a rocky Aegean cliff, cantilever over the sea, calm dramatic site (not stormy)
+- caption: The cantilever doesn't resist the cliff — it reads its logic.  Travertine and bronze mark where solid ground ends and air begins. Marble inside catches the quality of light only this elevation produces — sea-reflected, cooler, more precise. The soffit above t…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-144929&file=render.png
+
+### 260714-144526  ·  pending  ·  review
+
+![260714-144526](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-144526.jpg)
+
+- scores: ovr 9.2 · QL 95.0 · A510 95.0 · Bod 95.0 · prem 95.0 · exp 95.0 · arch 90.0
+- experience: celebration, sunset, slow_living, sea_breeze
+- materials: rough_stone, timber, glass, warm_plaster
+- architecture: mixed_material
+- brief: the beautiful life — a long table laid on the terrace at sunset, linen and lanterns, fruit and glasses, a few relaxed elegant guests turned to the sea, the villa warm behind them
+- caption: The terrace is not an outdoor room — it is the argument the house makes toward the horizon.  Where stone, plaster, and bronze align with the angle of late light, a surface stops being material and becomes instrument. This is the work: calibrating threshold, o…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-144526&file=render.png
+
+### 260714-144313  ·  pending  ·  review
+
+![260714-144313](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-144313.jpg)
+
+- scores: ovr 9.2 · QL 95.0 · A510 98.0 · Bod 98.0 · prem 95.0 · exp 95.0 · arch 90.0
+- experience: arrival, privacy, serenity, escape
+- materials: rough_stone, timber, glass, warm_plaster
+- architecture: mixed_material
+- brief: landscape architecture — stone terraces, retaining walls, sculptural stairs, cypress and olive, curated planting, water
+- caption: The retaining wall is the first architecture.  On a terraced hillside, the primary design move is how slope is inhabited — travertine planes that capture gradient, sculptural stairs that pace descent, water that marks each level. Marble and bronze define what…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-144313&file=render.png
+
+### 260714-144022  ·  pending  ·  review
+
+![260714-144022](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-144022.jpg)
+
+- scores: ovr 9.5 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 98.0 · exp 95.0 · arch 98.0
+- experience: privacy, serenity, escape, sunset
+- materials: polished_stone, timber, glass, water
+- architecture: contemporary
+- brief: elevated / aerial reveal of a villa in its site and coast — massing, terraces and landscape together
+- caption: Seen from above, a building either belongs to the land — or it doesn't.  The massing reads as one resolved decision: terraces that step with the contour, travertine anchoring the plinth, white plaster volumes carrying the coastal light at its full angle. The …
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-144022&file=render.png
+
+### 260714-143712  ·  pending  ·  review
+
+![260714-143712](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-143712.jpg)
+
+- scores: ovr 9.3 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 95.0 · exp 95.0 · arch 98.0
+- experience: privacy, serenity, escape, sunset
+- materials: rough_stone, honed_stone, travertine, glass
+- architecture: contemporary
+- brief: sea-view hero villa, cantilevered terraces, wide Aegean horizon, open sky
+- caption: The cantilever doesn't reach for the view — it holds the horizon in place.  When a terrace is suspended over open water, the building stops being a container and becomes a frame — a deliberate edit in the sky. Travertine and warm plaster are weighted precisel…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-143712&file=render.png
+
+### 260714-143502  ·  pending  ·  review
+
+![260714-143502](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-143502.jpg)
+
+- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 95.0 · prem 95.0 · exp 90.0 · arch 90.0
+- experience: arrival, privacy, serenity, escape
+- materials: rough_stone, timber, glass, water
+- architecture: mixed_material
+- brief: warm premium interior opening to a sea-view terrace, walnut and linen, full-height glass
+- caption: Full-height glass doesn't open a room to the sea — it asks the room to become part of it.  The discipline is in what is withheld. Travertine grounds the floor plane; warm plaster absorbs the heat of the day and releases it slowly at dusk. Walnut and bronze at…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-143502&file=render.png
 
 ### 260714-094248  ·  yes/perfect  ·  review
 
@@ -351,75 +447,5 @@ _generated: 2026-07-14T11:27:30.640647+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-B-interior&file=render.png
 
-### hf-B-woman  ·  yes/good  ·  review
-
-![hf-B-woman](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-B-woman.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-B-woman&file=render.png
-
-### hf-C-hero  ·  yes/good  ·  review
-
-![hf-C-hero](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-C-hero.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-C-hero&file=render.png
-
-### hf-C-coastal  ·  no/bad  ·  review
-
-![hf-C-coastal](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-C-coastal.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-C-coastal&file=render.png
-
-### hf-C-interior  ·  yes/good  ·  review
-
-![hf-C-interior](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-C-interior.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-C-interior&file=render.png
-
-### hf-C-detail  ·  yes/good  ·  review
-
-![hf-C-detail](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-C-detail.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-C-detail&file=render.png
-
-### hf-C-woman  ·  yes/good  ·  review
-
-![hf-C-woman](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-C-woman.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-C-woman&file=render.png
-
-### proj-260710-112029  ·  yes/good  ·  review
-
-- scores: ovr 8.8 · QL 95.0 · A510 90.0 · Bod 95.0 · prem 90.0 · exp 90.0 · arch 85.0
-- experience: privacy, serenity, sunset, slow_living
-- materials: white_plaster, rough_stone, glass, water
-- architecture: mixed_material
-- brief: белёная вилла у моря, закат
-- caption: At dusk, white plaster stops being a surface — it becomes the light itself.  Sunset on the Aegean isn't atmosphere; it's a design material. The villa is oriented to hold low-angle warmth across the terrace plane, while soffit depth and wall geometry pull shad…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=proj-260710-112029&file=render.png
-
-### 260710-100608  ·  no/bad  ·  review
-
-![260710-100608](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260710-100608.jpg)
-
-- scores: ovr 9.5 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 98.0 · exp 97.0 · arch 95.0
-- experience: privacy, serenity, escape, sunset
-- materials: rough_stone, timber, glass, water
-- architecture: mixed_material
-- brief: warm premium interior opening to a sea-view terrace, walnut and linen, full-height glass
-- caption: Walnut dissolves the threshold. Glass makes the sea part of the room.  Full-height glazing doesn't frame a view — it removes the wall. Walnut and linen hold warmth against travertine and polished stone; the pairing is calibrated to age into coherence, not con…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260710-100608&file=render.png
-
 ---
-_thumbnails mirrored: 38 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
+_thumbnails mirrored: 39 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
