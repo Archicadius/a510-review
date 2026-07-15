@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-15T02:30:03.247298+03:00_
+_generated: 2026-07-15T10:01:16.621619+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **160** · no **105** · pending **1** · total **266**
+- verdicts: yes **160** · no **105** · pending **3** · total **268**
 - ready to publish: **1**
 
 ## DNA summary
@@ -32,6 +32,30 @@ _generated: 2026-07-15T02:30:03.247298+03:00_
 - 260714-094032
 
 ## Recent candidates (40)
+
+### 260715-094943  ·  pending  ·  review
+
+![260715-094943](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260715-094943.jpg)
+
+- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 90.0
+- experience: arrival, privacy, serenity, escape
+- materials: travertine, glass, timber, water
+- architecture: mixed_material
+- brief: Три месяца. Столько живёт хороший объект на рынке.
+- caption: Bronze resolves against marble. The threshold holds.  The relationship between polished stone and warm metal is not decorative — it is structural to how light moves through the house. Travertine absorbs the midday plane; walnut softens the passage to shade. T…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260715-094943&file=render.png
+
+### 260715-094155  ·  pending  ·  review
+
+![260715-094155](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260715-094155.jpg)
+
+- scores: ovr 9.5 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 95.0 · exp 95.0 · arch 90.0
+- experience: arrival, privacy, serenity, escape
+- materials: travertine, glass, timber, warm_plaster
+- architecture: mixed_material
+- brief: Двенадцать недель кормят весь год.
+- caption: Travertine holds warmth long after the sun has moved.  The composition works on one discipline: every surface is a light instrument. Marble absorbs the morning angle; polished stone catches the noon reflection; walnut and bronze draw the edge without competin…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260715-094155&file=render.png
 
 ### 260714-155448  ·  no/bad  ·  review
 
@@ -484,22 +508,6 @@ _generated: 2026-07-15T02:30:03.247298+03:00_
 - scores: no-critic
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-D-cliff&file=render.png
-
-### hf-D-white_marble  ·  no/bad  ·  review
-
-![hf-D-white_marble](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-D-white_marble.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-D-white_marble&file=render.png
-
-### hf-D-night  ·  yes/good  ·  published
-
-![hf-D-night](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-D-night.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=published&id=hf-D-night&file=render.png
 
 ---
 _thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
