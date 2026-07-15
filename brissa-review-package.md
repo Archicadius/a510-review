@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-15T10:01:16.621619+03:00_
+_generated: 2026-07-15T23:33:25.730468+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **160** · no **105** · pending **3** · total **268**
+- verdicts: yes **160** · no **107** · pending **1** · total **268**
 - ready to publish: **1**
 
 ## DNA summary
@@ -18,22 +18,22 @@ _generated: 2026-07-15T10:01:16.621619+03:00_
 
 ## Repeated problems (top rejection reasons)
 - limited material palette variety ×6
+- foreground wall is visually heavy ×1
+- mid-ground planting could be denser ×1
+- retaining walls could be more hidden by planting ×1
 - foreground planting slightly repetitive ×1
 - limited material variety ×1
 - interior view slightly dark ×1
 - no pool feature ×1
 - limited material palette ×1
 - distant boats are generic ×1
-- minimal furniture presence ×1
-- single person is a bit generic ×1
-- outdoor furniture is minimal/unseen ×1
 
 ## Ready to publish
 - 260714-094032
 
 ## Recent candidates (40)
 
-### 260715-094943  ·  pending  ·  review
+### 260715-094943  ·  no/bad  ·  review
 
 ![260715-094943](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260715-094943.jpg)
 
@@ -45,7 +45,7 @@ _generated: 2026-07-15T10:01:16.621619+03:00_
 - caption: Bronze resolves against marble. The threshold holds.  The relationship between polished stone and warm metal is not decorative — it is structural to how light moves through the house. Travertine absorbs the midday plane; walnut softens the passage to shade. T…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260715-094943&file=render.png
 
-### 260715-094155  ·  pending  ·  review
+### 260715-094155  ·  no/bad  ·  review
 
 ![260715-094155](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260715-094155.jpg)
 
