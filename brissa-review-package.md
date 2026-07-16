@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-15T23:33:25.730468+03:00_
+_generated: 2026-07-16T09:35:21.837113+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **160** · no **107** · pending **1** · total **268**
+- verdicts: yes **160** · no **107** · pending **2** · total **269**
 - ready to publish: **1**
 
 ## DNA summary
@@ -32,6 +32,18 @@ _generated: 2026-07-15T23:33:25.730468+03:00_
 - 260714-094032
 
 ## Recent candidates (40)
+
+### 260716-093247  ·  pending  ·  review
+
+![260716-093247](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260716-093247.jpg)
+
+- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 95.0
+- experience: privacy, serenity, celebration, escape
+- materials: travertine, timber, glass, water
+- architecture: mixed_material
+- brief: Турция — 20. Италия — 15. Португалия — закрыто.
+- caption: Bronze and travertine don't decorate space — they negotiate it.  On coastal ground that drops toward the sea, the building earns its section: travertine bases absorbing the grade, white plaster volumes releasing upward, walnut ceilings pulling Aegean light in…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260716-093247&file=render.png
 
 ### 260715-094943  ·  no/bad  ·  review
 
@@ -500,14 +512,6 @@ _generated: 2026-07-15T23:33:25.730468+03:00_
 - brief: +17% на бумаге. −12% по-настоящему.
 - caption: Bronze resolves the threshold. Travertine holds the plane.  The precision here is in hierarchy — a white plaster volume that accepts its shadow work without competing with it, stone coursing that anchors the mass at terrace level, walnut soffits catching the …
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-093232&file=render.png
-
-### hf-D-cliff  ·  yes/good  ·  review
-
-![hf-D-cliff](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/hf-D-cliff.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=hf-D-cliff&file=render.png
 
 ---
 _thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
