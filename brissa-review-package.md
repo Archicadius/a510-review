@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-16T10:05:28.739824+03:00_
+_generated: 2026-07-16T11:05:40.736785+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **160** · no **107** · pending **5** · total **272**
+- verdicts: yes **160** · no **111** · pending **1** · total **272**
 - ready to publish: **0**
 
 ## DNA summary
@@ -18,22 +18,22 @@ _generated: 2026-07-16T10:05:28.739824+03:00_
 
 ## Repeated problems (top rejection reasons)
 - limited material palette variety ×6
+- stone cladding on lower level could benefit from more textural variation ×1
+- people are quite central, though not overpowering ×1
+- stone texture is quite dominant ×1
+- less dense garden planting in foreground ×1
+- furniture is premium but not highly sculptural ×1
+- could show more architectural detailing ×1
+- outdoor dining table is quite prominent ×1
 - foreground wall is visually heavy ×1
 - mid-ground planting could be denser ×1
-- retaining walls could be more hidden by planting ×1
-- foreground planting slightly repetitive ×1
-- limited material variety ×1
-- interior view slightly dark ×1
-- no pool feature ×1
-- limited material palette ×1
-- distant boats are generic ×1
 
 ## Ready to publish
 - (none)
 
 ## Recent candidates (40)
 
-### 260716-094909  ·  pending  ·  review
+### 260716-094909  ·  no/bad  ·  review
 
 ![260716-094909](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260716-094909.jpg)
 
@@ -45,7 +45,7 @@ _generated: 2026-07-16T10:05:28.739824+03:00_
 - caption: Travertine doesn't age — it deepens.  On the Aegean, architecture earns its place not by competing with the landscape but by anchoring it. We resolve this through material weight and restrained proportion: travertine and warm plaster hold the thermal mass, br…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260716-094909&file=render.png
 
-### 260716-093921  ·  pending  ·  review
+### 260716-093921  ·  no/bad  ·  review
 
 ![260716-093921](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260716-093921.jpg)
 
@@ -57,7 +57,7 @@ _generated: 2026-07-16T10:05:28.739824+03:00_
 - caption: Architecture doesn't choose between morning and evening — it holds both.  The discipline is in the orientation. When a plan is resolved correctly, the same marble plane reads cool and precise at dawn, then warm and particulate by dusk — not by mood, but by ge…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260716-093921&file=render.png
 
-### 260716-093705  ·  pending  ·  review
+### 260716-093705  ·  no/bad  ·  review
 
 ![260716-093705](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260716-093705.jpg)
 
@@ -69,7 +69,7 @@ _generated: 2026-07-16T10:05:28.739824+03:00_
 - caption: Bronze resolves the joint. Travertine holds the plane.  In this study, structural logic is made visible not through ornament but through the precise calibration of material weight. Polished stone and warm plaster absorb light differently at each hour; the bui…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260716-093705&file=render.png
 
-### 260716-093247  ·  pending  ·  review
+### 260716-093247  ·  no/bad  ·  review
 
 ![260716-093247](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260716-093247.jpg)
 
