@@ -1,13 +1,13 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-16T09:35:21.837113+03:00_
+_generated: 2026-07-16T10:05:28.739824+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **160** · no **107** · pending **2** · total **269**
-- ready to publish: **1**
+- verdicts: yes **160** · no **107** · pending **5** · total **272**
+- ready to publish: **0**
 
 ## DNA summary
 - **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / sculptural / modern (rotate across these, don't converge) Materials: glass / timber / rough_stone / water / white_plaster (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour / ['golden_hour', 'su…
@@ -29,9 +29,45 @@ _generated: 2026-07-16T09:35:21.837113+03:00_
 - distant boats are generic ×1
 
 ## Ready to publish
-- 260714-094032
+- (none)
 
 ## Recent candidates (40)
+
+### 260716-094909  ·  pending  ·  review
+
+![260716-094909](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260716-094909.jpg)
+
+- scores: ovr 8.8 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 92.0 · exp 90.0 · arch 90.0
+- experience: privacy, serenity, sunset, slow_living
+- materials: limestone, timber, glass, water
+- architecture: mixed_material
+- brief: Двадцать лет по 1%.
+- caption: Travertine doesn't age — it deepens.  On the Aegean, architecture earns its place not by competing with the landscape but by anchoring it. We resolve this through material weight and restrained proportion: travertine and warm plaster hold the thermal mass, br…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260716-094909&file=render.png
+
+### 260716-093921  ·  pending  ·  review
+
+![260716-093921](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260716-093921.jpg)
+
+- scores: ovr 9.5 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 98.0 · exp 95.0 · arch 98.0
+- experience: arrival, privacy, serenity, escape
+- materials: travertine, glass, timber, water
+- architecture: mixed_material
+- brief: Два решения. Один дом. Разные часы.
+- caption: Architecture doesn't choose between morning and evening — it holds both.  The discipline is in the orientation. When a plan is resolved correctly, the same marble plane reads cool and precise at dawn, then warm and particulate by dusk — not by mood, but by ge…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260716-093921&file=render.png
+
+### 260716-093705  ·  pending  ·  review
+
+![260716-093705](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260716-093705.jpg)
+
+- scores: ovr 9.2 · QL 98.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 95.0 · arch 90.0
+- experience: serenity, escape, golden_hour, sunset
+- materials: warm_plaster, travertine, timber, glass
+- architecture: contemporary
+- brief: $400 K в Бодруме. Или $800 K в Нью-Йорке. Выбирай.
+- caption: Bronze resolves the joint. Travertine holds the plane.  In this study, structural logic is made visible not through ornament but through the precise calibration of material weight. Polished stone and warm plaster absorb light differently at each hour; the bui…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260716-093705&file=render.png
 
 ### 260716-093247  ·  pending  ·  review
 
@@ -345,7 +381,7 @@ _generated: 2026-07-16T09:35:21.837113+03:00_
 - caption: Marble holds the threshold. Bronze draws the depth.  The interior is organized around one idea — the sea is not a backdrop but the far wall. Travertine runs continuous from terrace to interior, dissolving the line between shelter and landscape. Walnut and bro…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260714-094248&file=render.png
 
-### 260714-094032  ·  yes/perfect  ·  ready
+### 260714-094032  ·  yes/good  ·  published
 
 ![260714-094032](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260714-094032.jpg)
 
@@ -355,7 +391,7 @@ _generated: 2026-07-16T09:35:21.837113+03:00_
 - architecture: mixed_material
 - brief: современный средиземноморский сад и мощёный двор-патио
 - caption: The paved court is not a border — it is the agreement between house and garden.  Travertine underfoot and warm plaster above resolve without transition: only the bronze threshold marks where the interior axis ends and the landscape begins. The pool is the pla…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=ready&id=260714-094032&file=render.png
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=published&id=260714-094032&file=render.png
 
 ### 260714-093748  ·  no/bad  ·  review
 
@@ -476,42 +512,6 @@ _generated: 2026-07-16T09:35:21.837113+03:00_
 - brief: Дом зарабатывает четыре месяца. Проектируем под них.
 - caption: Four months of full light demand a different kind of precision.  When the occupancy window is short, every spatial decision carries more weight. The threshold between terrace and water isn't a gesture — it's orientation, proportion, the choice of travertine a…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-094054&file=render.png
-
-### 260711-093802  ·  yes/good  ·  review
-
-![260711-093802](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260711-093802.jpg)
-
-- scores: ovr 9.5 · QL 99.0 · A510 98.0 · Bod 95.0 · prem 98.0 · exp 95.0 · arch 100
-- experience: privacy, serenity, escape, sunset
-- materials: travertine, glass, warm_plaster, refined_concrete
-- architecture: contemporary
-- brief: Три месяца военной проверки. Мы проходим их за тебя.
-- caption: Travertine holds the plane. The Aegean does the rest.  Each terrace steps with the slope to compress, then release — thresholds that control where light arrives and how far the eye travels before it meets water. Marble and bronze resolve the joints. The pool …
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-093802&file=render.png
-
-### 260711-093517  ·  yes/good  ·  review
-
-![260711-093517](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260711-093517.jpg)
-
-- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 100
-- experience: arrival, privacy, serenity, escape
-- materials: honed_stone, timber, glass, water
-- architecture: mixed_material
-- brief: Строят половину того, что нужно.
-- caption: Half a brief builds half a house.  Architecture is a resolved system — program, proportion, material, light. Marble holds the plane. Travertine sets the ground. Bronze anchors the threshold. When the brief is abbreviated, these relationships never fully close…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-093517&file=render.png
-
-### 260711-093232  ·  no/bad  ·  review
-
-![260711-093232](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260711-093232.jpg)
-
-- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 100
-- experience: privacy, serenity, escape, sunset
-- materials: rough_stone, travertine, timber, glass
-- architecture: mixed_material
-- brief: +17% на бумаге. −12% по-настоящему.
-- caption: Bronze resolves the threshold. Travertine holds the plane.  The precision here is in hierarchy — a white plaster volume that accepts its shadow work without competing with it, stone coursing that anchors the mass at terrace level, walnut soffits catching the …
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-093232&file=render.png
 
 ---
 _thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
