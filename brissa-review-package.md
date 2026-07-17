@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-17T19:40:51.260998+03:00_
+_generated: 2026-07-17T20:10:57.723311+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **162** · no **111** · pending **1** · total **274**
+- verdicts: yes **162** · no **111** · pending **2** · total **275**
 - ready to publish: **0**
 
 ## DNA summary
@@ -32,6 +32,18 @@ _generated: 2026-07-17T19:40:51.260998+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260717-195046  ·  pending  ·  review
+
+![260717-195046](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260717-195046.jpg)
+
+- scores: ovr 9.3 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 96.0 · exp 95.0 · arch 90.0
+- experience: privacy, serenity, escape, sunset
+- materials: walnut, timber, glass, water
+- architecture: mixed_material
+- brief: warm premium interior opening to a sea-view terrace, walnut and linen, full-height glass
+- caption: When glass dissolves the threshold, the room ends at the horizon.  Full-height glazing is not a window — it is a decision about where the interior ends. Walnut and linen hold the room's warmth; the glass marks the break between that warmth and the open Aegean…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260717-195046&file=render.png
 
 ### 260717-094201  ·  yes/good  ·  review
 
@@ -500,18 +512,6 @@ _generated: 2026-07-17T19:40:51.260998+03:00_
 - brief: Через три года ты выходишь. Здание без бумаг — со скидкой.
 - caption: Marble resolves the plane. Bronze draws the edge.  When material and proportion meet at this precision — travertine against warm plaster, walnut against open sky — the building stops performing and starts belonging. Light on the Aegean is lateral and relentle…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-093453&file=render.png
-
-### 260712-093223  ·  no/bad  ·  review
-
-![260712-093223](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-093223.jpg)
-
-- scores: ovr 8.8 · QL 98.0 · A510 95.0 · Bod 98.0 · prem 95.0 · exp 95.0 · arch 98.0
-- experience: arrival, privacy, serenity, escape
-- materials: rough_stone, glass, dark_metal, water
-- architecture: mixed_material
-- brief: Новый закон чинит титул бесплатно. Кроме Бодрума.
-- caption: Proportion is the first material.  Where the terrace cantilevers over the coast, structural logic and spatial experience become the same thing. Travertine holds weight thermally and visually — slowing light to an oblique angle rather than a flat noon glare. B…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-093223&file=render.png
 
 ---
 _thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
