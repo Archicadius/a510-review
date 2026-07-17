@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-16T11:05:40.736785+03:00_
+_generated: 2026-07-17T09:39:14.799924+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **160** · no **111** · pending **1** · total **272**
+- verdicts: yes **160** · no **111** · pending **2** · total **273**
 - ready to publish: **0**
 
 ## DNA summary
@@ -32,6 +32,18 @@ _generated: 2026-07-16T11:05:40.736785+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260717-093758  ·  pending  ·  review
+
+![260717-093758](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260717-093758.jpg)
+
+- scores: ovr 9.2 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 95.0
+- experience: privacy, serenity, escape, sunset
+- materials: travertine, glass, dark_metal, water
+- architecture: mixed_material
+- brief: В Бодруме 12 аккаунтов о недвижимости. Ни один не покажет тебе расчёт.
+- caption: Marble holds the floor plane. Bronze holds the edge.  In a coastal climate, material choice is thermal strategy. Travertine mass absorbs the afternoon and releases it slowly into the evening; walnut softens the threshold between inside and landscape without a…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260717-093758&file=render.png
 
 ### 260716-094909  ·  no/bad  ·  review
 
@@ -500,18 +512,6 @@ _generated: 2026-07-16T11:05:40.736785+03:00_
 - brief: 60% Türkbükü покупают иностранцы. И берут худшую доходность.
 - caption: Marble holds the plane. Bronze resolves the edge. What remains is an argument with the horizon.  At this precision of material assembly, each surface makes a claim about the light it receives. Travertine warms differently than polished stone; warm plaster dis…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-094450&file=render.png
-
-### 260711-094054  ·  yes/good  ·  review
-
-![260711-094054](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260711-094054.jpg)
-
-- scores: ovr 8.8 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 98.0
-- experience: arrival, privacy, serenity, escape
-- materials: polished_stone, refined_concrete, timber, glass
-- architecture: contemporary
-- brief: Дом зарабатывает четыре месяца. Проектируем под них.
-- caption: Four months of full light demand a different kind of precision.  When the occupancy window is short, every spatial decision carries more weight. The threshold between terrace and water isn't a gesture — it's orientation, proportion, the choice of travertine a…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260711-094054&file=render.png
 
 ---
 _thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
