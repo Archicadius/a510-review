@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-17T20:10:57.723311+03:00_
+_generated: 2026-07-18T10:13:45.790262+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **162** · no **111** · pending **2** · total **275**
+- verdicts: yes **162** · no **111** · pending **3** · total **276**
 - ready to publish: **0**
 
 ## DNA summary
@@ -32,6 +32,18 @@ _generated: 2026-07-17T20:10:57.723311+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260718-094401  ·  pending  ·  review
+
+![260718-094401](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260718-094401.jpg)
+
+- scores: ovr 9.5 · QL 98.0 · A510 98.0 · Bod 95.0 · prem 97.0 · exp 95.0 · arch 95.0
+- experience: privacy, serenity, escape, sunset
+- materials: travertine, glass, timber, water
+- architecture: mixed_material
+- brief: Sessiz lüks. Тихая роскошь по-бодрумски.
+- caption: Travertine holds silence. Bronze names the threshold.  On the Aegean coast, material choice is a long argument with the sun. Travertine and warm plaster calibrated to afternoon light — not dressed for photographs, but tuned for daily life. The terrace extends…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260718-094401&file=render.png
 
 ### 260717-195046  ·  pending  ·  review
 
@@ -500,18 +512,6 @@ _generated: 2026-07-17T20:10:57.723311+03:00_
 - brief: 20 лет. И окно открылось задним числом.
 - caption: The Aegean doesn't need to be framed. It needs to be earned.  Travertine anchors the base; warm plaster lifts the volume above it. The terrace is not an amenity — it is the architecture resolving itself toward water. At this latitude, proportion is not aesthe…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-093810&file=render.png
-
-### 260712-093453  ·  yes/perfect  ·  review
-
-![260712-093453](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-093453.jpg)
-
-- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 95.0 · prem 95.0 · exp 95.0 · arch 100
-- experience: arrival, privacy, serenity, escape
-- materials: rough_stone, timber, glass, warm_plaster
-- architecture: mixed_material
-- brief: Через три года ты выходишь. Здание без бумаг — со скидкой.
-- caption: Marble resolves the plane. Bronze draws the edge.  When material and proportion meet at this precision — travertine against warm plaster, walnut against open sky — the building stops performing and starts belonging. Light on the Aegean is lateral and relentle…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-093453&file=render.png
 
 ---
 _thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
