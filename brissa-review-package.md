@@ -1,17 +1,17 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-18T10:13:45.790262+03:00_
+_generated: 2026-07-18T15:44:44.394079+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **162** · no **111** · pending **3** · total **276**
-- ready to publish: **0**
+- verdicts: yes **164** · no **111** · pending **1** · total **276**
+- ready to publish: **1**
 
 ## DNA summary
-- **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / sculptural / modern (rotate across these, don't converge) Materials: glass / timber / water / rough_stone / white_plaster (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour / ['golden_hour', 'su…
-- **diversity**: Diversity: last 30 posts over-use materials='glass' — deliberately pick a DIFFERENT one (try: timber, water, rough_stone, white_plaster); stay inside A510 DNA.
+- **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / sculptural / modern (rotate across these, don't converge) Materials: glass / timber / water / rough_stone / travertine (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour / ['golden_hour', 'sunse…
+- **diversity**: Diversity: last 30 posts over-use materials='glass' — deliberately pick a DIFFERENT one (try: timber, water, rough_stone, travertine); stay inside A510 DNA.
 - **landscape**: LANDSCAPE is a designed, EXPENSIVE co-star (design it WITH the building, not wild nature). Refined premium landscaping: modern terracing, polished/honed retaining walls, paved terraces, sculptural stairs & paths, curated Mediterranean gardens (mature olives, cypress, pines, palms where fitting, ornamental grasses), premium pool decks, designed outdoor rooms, soft evening landscape lighting. Feels integrated and world-class — not just rough terrain. Owner-confirmed landscape types: terraced, designed_luxury, integrated. Include confirmed features: retaining_walls, mature_garden, terraces, pool…
 - **caption**: Hooks that landed (echo this voice, don't copy): “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” | “At dusk, white plaster stops being a surface — it becomes the light itself.” | “When stone and bronze resolve at this precision, light stops being atmosphere — it becomes” Owner-preferred length ≈ 96 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace p…
 - **experience**: Express these EXPERIENCES (owner-confirmed): serenity, privacy, escape, sunset, slow living, arrival.
@@ -29,11 +29,11 @@ _generated: 2026-07-18T10:13:45.790262+03:00_
 - mid-ground planting could be denser ×1
 
 ## Ready to publish
-- (none)
+- 260717-195046
 
 ## Recent candidates (40)
 
-### 260718-094401  ·  pending  ·  review
+### 260718-094401  ·  yes/good  ·  review
 
 ![260718-094401](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260718-094401.jpg)
 
@@ -45,7 +45,7 @@ _generated: 2026-07-18T10:13:45.790262+03:00_
 - caption: Travertine holds silence. Bronze names the threshold.  On the Aegean coast, material choice is a long argument with the sun. Travertine and warm plaster calibrated to afternoon light — not dressed for photographs, but tuned for daily life. The terrace extends…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260718-094401&file=render.png
 
-### 260717-195046  ·  pending  ·  review
+### 260717-195046  ·  yes/perfect  ·  ready
 
 ![260717-195046](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260717-195046.jpg)
 
@@ -55,7 +55,7 @@ _generated: 2026-07-18T10:13:45.790262+03:00_
 - architecture: mixed_material
 - brief: warm premium interior opening to a sea-view terrace, walnut and linen, full-height glass
 - caption: When glass dissolves the threshold, the room ends at the horizon.  Full-height glazing is not a window — it is a decision about where the interior ends. Walnut and linen hold the room's warmth; the glass marks the break between that warmth and the open Aegean…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260717-195046&file=render.png
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=ready&id=260717-195046&file=render.png
 
 ### 260717-094201  ·  yes/good  ·  review
 
