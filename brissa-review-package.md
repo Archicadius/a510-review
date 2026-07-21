@@ -1,13 +1,13 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-21T11:26:12.364246+03:00_
+_generated: 2026-07-21T15:56:55.345568+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
 - verdicts: yes **164** · no **112** · pending **1** · total **277**
-- ready to publish: **1**
+- ready to publish: **0**
 
 ## DNA summary
 - **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / sculptural / modern (rotate across these, don't converge) Materials: glass / timber / water / rough_stone / travertine (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour / ['golden_hour', 'sunse…
@@ -29,7 +29,7 @@ _generated: 2026-07-21T11:26:12.364246+03:00_
 - foreground wall is visually heavy ×1
 
 ## Ready to publish
-- 260717-195046
+- (none)
 
 ## Recent candidates (40)
 
@@ -57,7 +57,7 @@ _generated: 2026-07-21T11:26:12.364246+03:00_
 - caption: Travertine holds silence. Bronze names the threshold.  On the Aegean coast, material choice is a long argument with the sun. Travertine and warm plaster calibrated to afternoon light — not dressed for photographs, but tuned for daily life. The terrace extends…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260718-094401&file=render.png
 
-### 260717-195046  ·  yes/perfect  ·  ready
+### 260717-195046  ·  yes/good  ·  published
 
 ![260717-195046](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260717-195046.jpg)
 
@@ -67,7 +67,7 @@ _generated: 2026-07-21T11:26:12.364246+03:00_
 - architecture: mixed_material
 - brief: warm premium interior opening to a sea-view terrace, walnut and linen, full-height glass
 - caption: When glass dissolves the threshold, the room ends at the horizon.  Full-height glazing is not a window — it is a decision about where the interior ends. Walnut and linen hold the room's warmth; the glass marks the break between that warmth and the open Aegean…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=ready&id=260717-195046&file=render.png
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=published&id=260717-195046&file=render.png
 
 ### 260717-094201  ·  yes/good  ·  review
 
