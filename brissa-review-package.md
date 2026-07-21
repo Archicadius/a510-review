@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-21T09:55:55.947530+03:00_
+_generated: 2026-07-21T11:26:12.364246+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **164** · no **111** · pending **2** · total **277**
+- verdicts: yes **164** · no **112** · pending **1** · total **277**
 - ready to publish: **1**
 
 ## DNA summary
@@ -18,6 +18,7 @@ _generated: 2026-07-21T09:55:55.947530+03:00_
 
 ## Repeated problems (top rejection reasons)
 - limited material palette variety ×6
+- warm plaster could have slightly more texture ×1
 - stone cladding on lower level could benefit from more textural variation ×1
 - people are quite central, though not overpowering ×1
 - stone texture is quite dominant ×1
@@ -26,14 +27,13 @@ _generated: 2026-07-21T09:55:55.947530+03:00_
 - could show more architectural detailing ×1
 - outdoor dining table is quite prominent ×1
 - foreground wall is visually heavy ×1
-- mid-ground planting could be denser ×1
 
 ## Ready to publish
 - 260717-195046
 
 ## Recent candidates (40)
 
-### 260721-095308  ·  pending  ·  review
+### 260721-095308  ·  no/bad  ·  review
 
 ![260721-095308](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260721-095308.jpg)
 
