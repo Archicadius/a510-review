@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-18T15:44:44.394079+03:00_
+_generated: 2026-07-21T09:55:55.947530+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **164** · no **111** · pending **1** · total **276**
+- verdicts: yes **164** · no **111** · pending **2** · total **277**
 - ready to publish: **1**
 
 ## DNA summary
@@ -32,6 +32,18 @@ _generated: 2026-07-18T15:44:44.394079+03:00_
 - 260717-195046
 
 ## Recent candidates (40)
+
+### 260721-095308  ·  pending  ·  review
+
+![260721-095308](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260721-095308.jpg)
+
+- scores: ovr 9.3 · QL 95.0 · A510 95.0 · Bod 95.0 · prem 95.0 · exp 95.0 · arch 98.0
+- experience: privacy, serenity, escape, sunset
+- materials: warm_plaster, travertine, timber, glass
+- architecture: mixed_material
+- brief: инфинити-бассейн и outdoor living на закате
+- caption: The edge is a compositional decision before it is an engineering one.  When the water plane dissolves into the Aegean horizon, the architecture refuses a boundary — the terrace becomes threshold rather than termination. Bronze at the glass line, travertine un…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260721-095308&file=render.png
 
 ### 260718-094401  ·  yes/good  ·  review
 
@@ -500,18 +512,6 @@ _generated: 2026-07-18T15:44:44.394079+03:00_
 - brief: Три льготы живут в одном доме.
 - caption: Three elevations. One connecting idea.  Marble grounds the arrival; warm plaster lifts the main volume; travertine meets the horizon at the upper terrace. The materials evolve across levels rather than repeat — each plane earns its own relationship with the s…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-094137&file=render.png
-
-### 260712-093810  ·  yes/good  ·  review
-
-![260712-093810](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260712-093810.jpg)
-
-- scores: ovr 9.0 · QL 98.0 · A510 95.0 · Bod 98.0 · prem 95.0 · exp 95.0 · arch 95.0
-- experience: arrival, privacy, serenity, escape
-- materials: rough_stone, timber, glass, water
-- architecture: mixed_material
-- brief: 20 лет. И окно открылось задним числом.
-- caption: The Aegean doesn't need to be framed. It needs to be earned.  Travertine anchors the base; warm plaster lifts the volume above it. The terrace is not an amenity — it is the architecture resolving itself toward water. At this latitude, proportion is not aesthe…
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260712-093810&file=render.png
 
 ---
 _thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
