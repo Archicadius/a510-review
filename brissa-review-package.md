@@ -1,6 +1,6 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-21T15:56:55.345568+03:00_
+_generated: 2026-07-23T12:53:42.340204+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
@@ -10,8 +10,8 @@ _generated: 2026-07-21T15:56:55.345568+03:00_
 - ready to publish: **0**
 
 ## DNA summary
-- **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / sculptural / modern (rotate across these, don't converge) Materials: glass / timber / water / rough_stone / travertine (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour / ['golden_hour', 'sunse…
-- **diversity**: Diversity: last 30 posts over-use materials='glass' — deliberately pick a DIFFERENT one (try: timber, water, rough_stone, travertine); stay inside A510 DNA.
+- **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / sculptural / modern (rotate across these, don't converge) Materials: glass / timber / water / rough_stone / white_plaster (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset / blue_hour / ['golden_hour', 'su…
+- **diversity**: Diversity: last 30 posts over-use materials='glass' — deliberately pick a DIFFERENT one (try: timber, water, rough_stone, white_plaster); stay inside A510 DNA.
 - **landscape**: LANDSCAPE is a designed, EXPENSIVE co-star (design it WITH the building, not wild nature). Refined premium landscaping: modern terracing, polished/honed retaining walls, paved terraces, sculptural stairs & paths, curated Mediterranean gardens (mature olives, cypress, pines, palms where fitting, ornamental grasses), premium pool decks, designed outdoor rooms, soft evening landscape lighting. Feels integrated and world-class — not just rough terrain. Owner-confirmed landscape types: terraced, designed_luxury, integrated. Include confirmed features: retaining_walls, mature_garden, terraces, pool…
 - **caption**: Hooks that landed (echo this voice, don't copy): “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” | “At dusk, white plaster stops being a surface — it becomes the light itself.” | “When stone and bronze resolve at this precision, light stops being atmosphere — it becomes” Owner-preferred length ≈ 96 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace p…
 - **experience**: Express these EXPERIENCES (owner-confirmed): serenity, privacy, escape, sunset, slow living, arrival.
