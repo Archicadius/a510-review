@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-23T20:25:21.517875+03:00_
+_generated: 2026-07-23T23:25:53.051610+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **191** · no **160** · pending **1** · total **352**
+- verdicts: yes **196** · no **166** · pending **1** · total **363**
 - ready to publish: **0**
 
 ## DNA summary
@@ -16,12 +16,100 @@ _generated: 2026-07-23T20:25:21.517875+03:00_
 - **experience**: Express these EXPERIENCES (owner-confirmed): serenity, privacy, escape, sunset, slow living, arrival.
 
 ## Repeated problems (top rejection reasons)
-- collage_not_for_publish ×1
+- (none)
 
 ## Ready to publish
 - (none)
 
 ## Recent candidates (40)
+
+### taste-260723-2309_11  ·  no/bad  ·  review
+
+![taste-260723-2309_11](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-2309_11.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-2309_11&file=render.png
+
+### taste-260723-2309_10  ·  no/bad  ·  review
+
+![taste-260723-2309_10](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-2309_10.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-2309_10&file=render.png
+
+### taste-260723-2309_09  ·  yes/perfect  ·  review
+
+![taste-260723-2309_09](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-2309_09.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-2309_09&file=render.png
+
+### taste-260723-2309_08  ·  no/bad  ·  review
+
+![taste-260723-2309_08](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-2309_08.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-2309_08&file=render.png
+
+### taste-260723-2309_07  ·  no/bad  ·  review
+
+![taste-260723-2309_07](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-2309_07.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-2309_07&file=render.png
+
+### taste-260723-2309_06  ·  yes/good  ·  review
+
+![taste-260723-2309_06](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-2309_06.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-2309_06&file=render.png
+
+### taste-260723-2309_05  ·  yes/good  ·  review
+
+![taste-260723-2309_05](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-2309_05.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-2309_05&file=render.png
+
+### taste-260723-2309_04  ·  no/bad  ·  review
+
+![taste-260723-2309_04](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-2309_04.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-2309_04&file=render.png
+
+### taste-260723-2309_03  ·  no/bad  ·  review
+
+![taste-260723-2309_03](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-2309_03.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-2309_03&file=render.png
+
+### taste-260723-2309_02  ·  yes/good  ·  review
+
+![taste-260723-2309_02](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-2309_02.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-2309_02&file=render.png
+
+### taste-260723-2309_01  ·  yes/perfect  ·  review
+
+![taste-260723-2309_01](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-2309_01.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-2309_01&file=render.png
 
 ### taste-260723-1744_24  ·  no/bad  ·  review
 
@@ -283,105 +371,6 @@ _generated: 2026-07-23T20:25:21.517875+03:00_
 - materials: timber_screen_facade, stone_plinth
 - architecture: compact_cubic_volumes_with_timber_pergol
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-1744_08&file=render.png
-
-### taste-260723-1744_09  ·  no/bad  ·  review
-
-![taste-260723-1744_09](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-1744_09.jpg)
-
-- scores: no-critic
-- materials: white_plaster, timber
-- architecture: pavilion_and_wing_composition
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-1744_09&file=render.png
-
-### taste-260723-1722_01  ·  no/bad  ·  review
-
-![taste-260723-1722_01](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-1722_01.jpg)
-
-- scores: no-critic
-- materials: soft_morning
-- architecture: by_the_Aegean_sea
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-1722_01&file=render.png
-
-### taste-260723-1722_02  ·  no/bad  ·  review
-
-![taste-260723-1722_02](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-1722_02.jpg)
-
-- scores: no-critic
-- materials: soft_morning
-- architecture: among_pines_and_olives
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-1722_02&file=render.png
-
-### taste-260723-1722_03  ·  no/bad  ·  review
-
-![taste-260723-1722_03](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-1722_03.jpg)
-
-- scores: no-critic
-- materials: golden_hour
-- architecture: in_a_dry_garden
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-1722_03&file=render.png
-
-### taste-260723-1722_04  ·  no/bad  ·  review
-
-![taste-260723-1722_04](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-1722_04.jpg)
-
-- scores: no-critic
-- materials: golden_hour
-- architecture: among_pines_and_olives
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-1722_04&file=render.png
-
-### taste-260723-1722_05  ·  yes/good  ·  review
-
-![taste-260723-1722_05](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-1722_05.jpg)
-
-- scores: no-critic
-- materials: golden_hour
-- architecture: on_a_clifftop_over_the_sea
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-1722_05&file=render.png
-
-### taste-260723-1722_06  ·  no/bad  ·  review
-
-![taste-260723-1722_06](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-1722_06.jpg)
-
-- scores: no-critic
-- materials: golden_hour
-- architecture: on_a_coastal_hillside
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-1722_06&file=render.png
-
-### taste-260723-1722_07  ·  yes/good  ·  review
-
-![taste-260723-1722_07](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-1722_07.jpg)
-
-- scores: no-critic
-- materials: golden_hour
-- architecture: among_pines_and_olives
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-1722_07&file=render.png
-
-### taste-260723-1722_08  ·  yes/good  ·  review
-
-![taste-260723-1722_08](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-1722_08.jpg)
-
-- scores: no-critic
-- materials: sunset
-- architecture: by_the_Aegean_sea
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-1722_08&file=render.png
-
-### taste-260723-1722_09  ·  no/bad  ·  review
-
-![taste-260723-1722_09](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-1722_09.jpg)
-
-- scores: no-critic
-- materials: golden_hour
-- architecture: in_a_dry_garden
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-1722_09&file=render.png
-
-### taste-260723-1722_10  ·  no/bad  ·  review
-
-![taste-260723-1722_10](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260723-1722_10.jpg)
-
-- scores: no-critic
-- materials: sunset
-- architecture: on_a_coastal_hillside
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260723-1722_10&file=render.png
 
 ---
 _thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
