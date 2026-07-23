@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-23T19:55:05.550355+03:00_
+_generated: 2026-07-23T20:25:21.517875+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **180** · no **143** · pending **1** · total **324**
+- verdicts: yes **191** · no **160** · pending **1** · total **352**
 - ready to publish: **0**
 
 ## DNA summary
@@ -16,7 +16,7 @@ _generated: 2026-07-23T19:55:05.550355+03:00_
 - **experience**: Express these EXPERIENCES (owner-confirmed): serenity, privacy, escape, sunset, slow living, arrival.
 
 ## Repeated problems (top rejection reasons)
-- warm plaster could have slightly more texture ×1
+- collage_not_for_publish ×1
 
 ## Ready to publish
 - (none)
