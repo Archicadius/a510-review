@@ -1,13 +1,13 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-24T09:57:38.807061+03:00_
+_generated: 2026-07-24T13:58:23.251579+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
 - verdicts: yes **223** · no **223** · pending **1** · total **447**
-- ready to publish: **1**
+- ready to publish: **0**
 
 ## DNA summary
 - **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / by_the_aegean_sea / sculptural / among_pines_and_olives (rotate across these, don't converge) Materials: glass / timber / water / rough_stone / travertine (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset …
@@ -19,7 +19,7 @@ _generated: 2026-07-24T09:57:38.807061+03:00_
 - (none)
 
 ## Ready to publish
-- taste-260724-0924_22
+- (none)
 
 ## Recent candidates (40)
 
@@ -71,13 +71,13 @@ _generated: 2026-07-24T09:57:38.807061+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_23&file=render.png
 
-### taste-260724-0924_22  ·  yes/perfect  ·  ready
+### taste-260724-0924_22  ·  yes/good  ·  published
 
 ![taste-260724-0924_22](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_22.jpg)
 
 - scores: no-critic
 - architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=ready&id=taste-260724-0924_22&file=render.png
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=published&id=taste-260724-0924_22&file=render.png
 
 ### taste-260724-0924_21  ·  yes/good  ·  review
 
