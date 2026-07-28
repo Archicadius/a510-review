@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-28T12:43:48.684581+03:00_
+_generated: 2026-07-28T14:14:08.944808+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **229** · no **243** · pending **1** · total **473**
+- verdicts: yes **239** · no **249** · pending **1** · total **489**
 - ready to publish: **0**
 
 ## DNA summary
@@ -38,6 +38,134 @@ _generated: 2026-07-28T12:43:48.684581+03:00_
 - scores: no-critic
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-0959_25&file=render.png
+
+### taste-260728-1339_16  ·  yes/good  ·  review
+
+![taste-260728-1339_16](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_16.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_16&file=render.png
+
+### taste-260728-1339_15  ·  no/bad  ·  review
+
+![taste-260728-1339_15](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_15.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_15&file=render.png
+
+### taste-260728-1339_14  ·  no/bad  ·  review
+
+![taste-260728-1339_14](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_14.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_14&file=render.png
+
+### taste-260728-1339_13  ·  no/bad  ·  review
+
+![taste-260728-1339_13](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_13.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_13&file=render.png
+
+### taste-260728-1339_12  ·  no/bad  ·  review
+
+![taste-260728-1339_12](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_12.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_12&file=render.png
+
+### taste-260728-1339_11  ·  yes/good  ·  review
+
+![taste-260728-1339_11](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_11.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_11&file=render.png
+
+### taste-260728-1339_10  ·  no/bad  ·  review
+
+![taste-260728-1339_10](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_10.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_10&file=render.png
+
+### taste-260728-1339_09  ·  no/bad  ·  review
+
+![taste-260728-1339_09](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_09.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_09&file=render.png
+
+### taste-260728-1339_08  ·  yes/good  ·  review
+
+![taste-260728-1339_08](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_08.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_08&file=render.png
+
+### taste-260728-1339_07  ·  yes/good  ·  review
+
+![taste-260728-1339_07](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_07.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_07&file=render.png
+
+### taste-260728-1339_06  ·  yes/good  ·  review
+
+![taste-260728-1339_06](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_06.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_06&file=render.png
+
+### taste-260728-1339_05  ·  yes/good  ·  review
+
+![taste-260728-1339_05](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_05.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_05&file=render.png
+
+### taste-260728-1339_04  ·  yes/good  ·  review
+
+![taste-260728-1339_04](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_04.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_04&file=render.png
+
+### taste-260728-1339_03  ·  yes/good  ·  review
+
+![taste-260728-1339_03](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_03.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_03&file=render.png
+
+### taste-260728-1339_02  ·  yes/good  ·  review
+
+![taste-260728-1339_02](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_02.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_02&file=render.png
+
+### taste-260728-1339_01  ·  yes/good  ·  review
+
+![taste-260728-1339_01](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1339_01.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1339_01&file=render.png
 
 ### taste-260728-0959_26  ·  no/bad  ·  review
 
@@ -214,134 +342,6 @@ _generated: 2026-07-28T12:43:48.684581+03:00_
 - scores: no-critic
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-0959_04&file=render.png
-
-### taste-260728-0959_03  ·  yes/good  ·  review
-
-![taste-260728-0959_03](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-0959_03.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-0959_03&file=render.png
-
-### taste-260728-0959_02  ·  no/bad  ·  review
-
-![taste-260728-0959_02](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-0959_02.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-0959_02&file=render.png
-
-### taste-260724-0924_28  ·  yes/good  ·  review
-
-![taste-260724-0924_28](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_28.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_28&file=render.png
-
-### taste-260724-0924_27  ·  no/bad  ·  review
-
-![taste-260724-0924_27](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_27.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_27&file=render.png
-
-### taste-260724-0924_26  ·  yes/good  ·  review
-
-![taste-260724-0924_26](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_26.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_26&file=render.png
-
-### taste-260724-0924_25  ·  no/bad  ·  review
-
-![taste-260724-0924_25](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_25.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_25&file=render.png
-
-### taste-260724-0924_24  ·  no/bad  ·  review
-
-![taste-260724-0924_24](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_24.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_24&file=render.png
-
-### taste-260724-0924_23  ·  no/bad  ·  review
-
-![taste-260724-0924_23](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_23.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_23&file=render.png
-
-### taste-260724-0924_22  ·  yes/good  ·  published
-
-![taste-260724-0924_22](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_22.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=published&id=taste-260724-0924_22&file=render.png
-
-### taste-260724-0924_21  ·  yes/good  ·  review
-
-![taste-260724-0924_21](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_21.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_21&file=render.png
-
-### taste-260724-0924_20  ·  yes/good  ·  review
-
-![taste-260724-0924_20](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_20.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_20&file=render.png
-
-### taste-260724-0924_19  ·  yes/good  ·  review
-
-![taste-260724-0924_19](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_19.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_19&file=render.png
-
-### taste-260724-0924_18  ·  no/bad  ·  review
-
-![taste-260724-0924_18](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_18.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_18&file=render.png
-
-### taste-260724-0924_17  ·  no/bad  ·  review
-
-![taste-260724-0924_17](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_17.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_17&file=render.png
-
-### taste-260724-0924_16  ·  yes/good  ·  review
-
-![taste-260724-0924_16](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_16.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_16&file=render.png
-
-### taste-260724-0924_15  ·  yes/good  ·  review
-
-![taste-260724-0924_15](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260724-0924_15.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260724-0924_15&file=render.png
 
 ---
 _thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
