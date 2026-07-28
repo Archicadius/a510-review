@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-28T15:44:29.302321+03:00_
+_generated: 2026-07-28T16:14:40.168929+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **268** · no **332** · pending **1** · total **601**
+- verdicts: yes **268** · no **333** · pending **1** · total **602**
 - ready to publish: **0**
 
 ## DNA summary
@@ -22,6 +22,14 @@ _generated: 2026-07-28T15:44:29.302321+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### taste-260728-1520_37  ·  no/bad  ·  review
+
+![taste-260728-1520_37](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1520_37.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1520_37&file=render.png
 
 ### taste-260728-0959_01  ·  no/bad  ·  review
 
@@ -334,14 +342,6 @@ _generated: 2026-07-28T15:44:29.302321+03:00_
 - scores: no-critic
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1434_12&file=render.png
-
-### taste-260728-1434_11  ·  no/bad  ·  review
-
-![taste-260728-1434_11](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260728-1434_11.jpg)
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260728-1434_11&file=render.png
 
 ---
 _thumbnails mirrored: 40 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
