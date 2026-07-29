@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-29T08:48:53.422583+03:00_
+_generated: 2026-07-29T09:19:01.269480+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **314** · no **494** · pending **1** · total **809**
+- verdicts: yes **316** · no **494** · pending **1** · total **811**
 - ready to publish: **1**
 
 ## DNA summary
@@ -22,6 +22,22 @@ _generated: 2026-07-29T08:48:53.422583+03:00_
 - taste-260729-0102_11
 
 ## Recent candidates (40)
+
+### taste-260729-0842_36  ·  yes/good  ·  review
+
+![taste-260729-0842_36](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260729-0842_36.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260729-0842_36&file=render.png
+
+### taste-260729-0842_38  ·  yes/good  ·  review
+
+![taste-260729-0842_38](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-260729-0842_38.jpg)
+
+- scores: no-critic
+- architecture: —
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260729-0842_38&file=render.png
 
 ### taste-260729-0102_40  ·  yes/good  ·  review
 
@@ -253,17 +269,5 @@ _generated: 2026-07-29T08:48:53.422583+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260729-0102_03&file=render.png
 
-### taste-260729-0102_02  ·  no/bad  ·  review
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260729-0102_02&file=render.png
-
-### taste-260729-0102_01  ·  no/bad  ·  review
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260729-0102_01&file=render.png
-
 ---
-_thumbnails mirrored: 1 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
+_thumbnails mirrored: 3 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
