@@ -1,13 +1,13 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-07-30T16:04:06.736421+03:00_
+_generated: 2026-07-31T15:12:54.479686+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
 - verdicts: yes **347** · no **553** · pending **1** · total **901**
-- ready to publish: **0**
+- ready to publish: **2**
 
 ## DNA summary
 - **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / by_the_aegean_sea / sculptural / among_pines_and_olives (rotate across these, don't converge) Materials: glass / timber / water / rough_stone / travertine (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset …
@@ -19,7 +19,7 @@ _generated: 2026-07-30T16:04:06.736421+03:00_
 - (none)
 
 ## Ready to publish
-- (none)
+- taste-cove-260730-1115_06, taste-cove-260730-1115_04
 
 ## Recent candidates (40)
 
@@ -71,13 +71,13 @@ _generated: 2026-07-30T16:04:06.736421+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-cove-260730-1115_07&file=render.png
 
-### taste-cove-260730-1115_06  ·  yes/perfect  ·  review
+### taste-cove-260730-1115_06  ·  yes/perfect  ·  ready
 
 ![taste-cove-260730-1115_06](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-cove-260730-1115_06.jpg)
 
 - scores: no-critic
 - architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-cove-260730-1115_06&file=render.png
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=ready&id=taste-cove-260730-1115_06&file=render.png
 
 ### taste-cove-260730-1115_05  ·  yes/good  ·  published
 
@@ -87,13 +87,13 @@ _generated: 2026-07-30T16:04:06.736421+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=published&id=taste-cove-260730-1115_05&file=render.png
 
-### taste-cove-260730-1115_04  ·  yes/perfect  ·  review
+### taste-cove-260730-1115_04  ·  yes/perfect  ·  ready
 
 ![taste-cove-260730-1115_04](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/taste-cove-260730-1115_04.jpg)
 
 - scores: no-critic
 - architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-cove-260730-1115_04&file=render.png
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=ready&id=taste-cove-260730-1115_04&file=render.png
 
 ### taste-cove-260730-1115_03  ·  no/bad  ·  review
 
