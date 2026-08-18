@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-08-14T10:19:20.303771+03:00_
+_generated: 2026-08-18T12:35:55.321885+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **357** · no **592** · pending **3** · total **952**
+- verdicts: yes **357** · no **592** · pending **5** · total **954**
 - ready to publish: **0**
 
 ## DNA summary
@@ -22,6 +22,30 @@ _generated: 2026-08-14T10:19:20.303771+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260818-094349  ·  pending  ·  review
+
+![260818-094349](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260818-094349.jpg)
+
+- scores: ovr 9.2 · QL 97.0 · A510 95.0 · Bod 98.0 · prem 95.0 · exp 95.0 · arch 90.0
+- experience: privacy, serenity, celebration, escape
+- materials: warm_plaster, glass, water, honed_stone
+- architecture: contemporary
+- brief: роскошная вилла у самой воды Эгейского моря
+- caption: The sea plane and the terrace plane meet once. Architecture decides where.  At the Aegean edge, a building's discipline is tested by proximity to water. Travertine reads the tidal light differently than polished stone; white plaster holds the salt air through…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260818-094349&file=render.png
+
+### 260818-094004  ·  pending  ·  review
+
+![260818-094004](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260818-094004.jpg)
+
+- scores: ovr 8.5 · QL 95.0 · A510 90.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 95.0
+- experience: privacy, serenity, escape, slow_living
+- materials: travertine, timber, glass, dark_metal
+- architecture: mixed_material
+- brief: каменная вилла в сосновом лесу, мягкая интеграция в рельеф
+- caption: Stone follows the slope. Architecture follows the logic of stone.  Integration here is not a gesture — it is a discipline. The mass settles into the hillside so the ground plane reads continuous, broken only by travertine thresholds and bronze reveals. Pine l…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260818-094004&file=render.png
 
 ### 260814-094939  ·  pending  ·  review
 
@@ -281,17 +305,5 @@ _generated: 2026-08-14T10:19:20.303771+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1509_14&file=render.png
 
-### taste-260731-1509_13  ·  no/bad  ·  review
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1509_13&file=render.png
-
-### taste-260731-1509_12  ·  no/bad  ·  review
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1509_12&file=render.png
-
 ---
-_thumbnails mirrored: 11 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
+_thumbnails mirrored: 13 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
