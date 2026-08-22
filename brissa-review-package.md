@@ -1,30 +1,32 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-08-22T10:14:46.999586+03:00_
+_generated: 2026-08-23T01:23:47.233147+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **357** · no **592** · pending **7** · total **956**
+- verdicts: yes **361** · no **594** · pending **1** · total **956**
 - ready to publish: **0**
 
 ## DNA summary
-- **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / by_the_aegean_sea / sculptural / among_pines_and_olives (rotate across these, don't converge) Materials: glass / timber / water / rough_stone / travertine (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset …
-- **diversity**: Diversity: last 30 posts over-use materials='timber' — deliberately pick a DIFFERENT one (try: glass, water, rough_stone, travertine); stay inside A510 DNA.
-- **landscape**: LANDSCAPE is a designed, EXPENSIVE co-star (design it WITH the building, not wild nature). Refined premium landscaping: modern terracing, polished/honed retaining walls, paved terraces, sculptural stairs & paths, curated Mediterranean gardens (mature olives, cypress, pines, palms where fitting, ornamental grasses), premium pool decks, designed outdoor rooms, soft evening landscape lighting. Feels integrated and world-class — not just rough terrain. Owner-confirmed landscape types: terraced, designed_luxury, integrated. Include confirmed features: retaining_walls, mature_garden, terraces, pool…
-- **caption**: Hooks that landed (echo this voice, don't copy): “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” | “At dusk, white plaster stops being a surface — it becomes the light itself.” | “When stone and bronze resolve at this precision, light stops being atmosphere — it becomes” Owner-preferred length ≈ 96 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace p…
-- **experience**: Express these EXPERIENCES (owner-confirmed): serenity, privacy, escape, sunset, slow living, arrival.
+- **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / by_the_aegean_sea / sculptural / among_pines_and_olives (rotate across these, don't converge) Materials: glass / timber / water / rough_stone / white_plaster (rotate across these, don't converge) Landscape: terraced / designed_luxury / rich_garden / integrated (rotate across these, don't converge) Landscape features: mature_garden / terraces / retaining_walls / olive_trees / pool (rotate across these, don't converge) Lighting: gold…
+- **diversity**: Diversity: last 30 posts over-use materials='timber' — deliberately pick a DIFFERENT one (try: glass, water, rough_stone, white_plaster); stay inside A510 DNA.
+- **landscape**: LANDSCAPE is a designed, EXPENSIVE co-star (design it WITH the building, not wild nature). Refined premium landscaping: modern terracing, polished/honed retaining walls, paved terraces, sculptural stairs & paths, curated Mediterranean gardens (mature olives, cypress, pines, palms where fitting, ornamental grasses), premium pool decks, designed outdoor rooms, soft evening landscape lighting. Feels integrated and world-class — not just rough terrain. Owner-confirmed landscape types: terraced, designed_luxury, rich_garden, integrated. Include confirmed features: mature_garden, terraces, retainin…
+- **caption**: Hooks that landed (echo this voice, don't copy): “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” | “At dusk, white plaster stops being a surface — it becomes the light itself.” | “When stone and bronze resolve at this precision, light stops being atmosphere — it becomes” Owner-preferred length ≈ 97 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace p…
+- **experience**: Express these EXPERIENCES (owner-confirmed): serenity, escape, privacy, slow living, sunset, arrival.
 
 ## Repeated problems (top rejection reasons)
-- (none)
+- no explicit pool feature visible ×1
+- foreground planting could be denser ×1
+- dominant white wall, though architectural ×1
 
 ## Ready to publish
 - (none)
 
 ## Recent candidates (40)
 
-### 260822-094441  ·  pending  ·  review
+### 260822-094441  ·  yes/perfect  ·  review
 
 ![260822-094441](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260822-094441.jpg)
 
@@ -36,7 +38,7 @@ _generated: 2026-08-22T10:14:46.999586+03:00_
 - caption: The horizon doesn't belong to the site. Architecture earns it.  What a broker calls "the view" is, architecturally, a threshold — the precise edge where travertine dissolves into the Aegean. Its proportion and height above the water determine how a body inhab…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260822-094441&file=render.png
 
-### 260820-094053  ·  pending  ·  review
+### 260820-094053  ·  yes/perfect  ·  review
 
 ![260820-094053](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260820-094053.jpg)
 
@@ -48,7 +50,7 @@ _generated: 2026-08-22T10:14:46.999586+03:00_
 - caption: The courtyard doesn't separate house from garden — it resolves them.  Travertine lays a plane that reads differently at every hour — flattening under noon, anchoring the geometry at dusk. Planting is not ornament here: it holds the terrace edges, deepens shad…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260820-094053&file=render.png
 
-### 260818-094349  ·  pending  ·  review
+### 260818-094349  ·  yes/good  ·  review
 
 ![260818-094349](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260818-094349.jpg)
 
@@ -60,7 +62,7 @@ _generated: 2026-08-22T10:14:46.999586+03:00_
 - caption: The sea plane and the terrace plane meet once. Architecture decides where.  At the Aegean edge, a building's discipline is tested by proximity to water. Travertine reads the tidal light differently than polished stone; white plaster holds the salt air through…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260818-094349&file=render.png
 
-### 260818-094004  ·  pending  ·  review
+### 260818-094004  ·  no/bad  ·  review
 
 ![260818-094004](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260818-094004.jpg)
 
@@ -72,7 +74,7 @@ _generated: 2026-08-22T10:14:46.999586+03:00_
 - caption: Stone follows the slope. Architecture follows the logic of stone.  Integration here is not a gesture — it is a discipline. The mass settles into the hillside so the ground plane reads continuous, broken only by travertine thresholds and bronze reveals. Pine l…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260818-094004&file=render.png
 
-### 260814-094939  ·  pending  ·  review
+### 260814-094939  ·  no/bad  ·  review
 
 ![260814-094939](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260814-094939.jpg)
 
@@ -84,7 +86,7 @@ _generated: 2026-08-22T10:14:46.999586+03:00_
 - caption: The wall is climate, not composition.  A fifteen-degree differential across one plane of travertine reorganizes the entire logic of the terrace. Mass absorbs solar load through the morning hours and releases slowly toward dusk. The wall doesn't shield the vie…
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260814-094939&file=render.png
 
-### 260813-093908  ·  pending  ·  review
+### 260813-093908  ·  yes/good  ·  review
 
 ![260813-093908](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260813-093908.jpg)
 
