@@ -1,16 +1,17 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-08-20T10:09:03.188168+03:00_
+_generated: 2026-08-22T10:14:46.999586+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **357** · no **592** · pending **6** · total **955**
+- verdicts: yes **357** · no **592** · pending **7** · total **956**
 - ready to publish: **0**
 
 ## DNA summary
 - **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / by_the_aegean_sea / sculptural / among_pines_and_olives (rotate across these, don't converge) Materials: glass / timber / water / rough_stone / travertine (rotate across these, don't converge) Landscape: terraced / designed_luxury / integrated (rotate across these, don't converge) Landscape features: retaining_walls / mature_garden / terraces / pool / olive_trees (rotate across these, don't converge) Lighting: golden_hour / sunset …
+- **diversity**: Diversity: last 30 posts over-use materials='timber' — deliberately pick a DIFFERENT one (try: glass, water, rough_stone, travertine); stay inside A510 DNA.
 - **landscape**: LANDSCAPE is a designed, EXPENSIVE co-star (design it WITH the building, not wild nature). Refined premium landscaping: modern terracing, polished/honed retaining walls, paved terraces, sculptural stairs & paths, curated Mediterranean gardens (mature olives, cypress, pines, palms where fitting, ornamental grasses), premium pool decks, designed outdoor rooms, soft evening landscape lighting. Feels integrated and world-class — not just rough terrain. Owner-confirmed landscape types: terraced, designed_luxury, integrated. Include confirmed features: retaining_walls, mature_garden, terraces, pool…
 - **caption**: Hooks that landed (echo this voice, don't copy): “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” | “At dusk, white plaster stops being a surface — it becomes the light itself.” | “When stone and bronze resolve at this precision, light stops being atmosphere — it becomes” Owner-preferred length ≈ 96 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace p…
 - **experience**: Express these EXPERIENCES (owner-confirmed): serenity, privacy, escape, sunset, slow living, arrival.
@@ -22,6 +23,18 @@ _generated: 2026-08-20T10:09:03.188168+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260822-094441  ·  pending  ·  review
+
+![260822-094441](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260822-094441.jpg)
+
+- scores: ovr 8.8 · QL 95.0 · A510 90.0 · Bod 95.0 · prem 90.0 · exp 90.0 · arch 95.0
+- experience: arrival, privacy, serenity, escape
+- materials: white_plaster, timber, glass, water
+- architecture: mixed_material
+- brief: Что брокер называет "видом
+- caption: The horizon doesn't belong to the site. Architecture earns it.  What a broker calls "the view" is, architecturally, a threshold — the precise edge where travertine dissolves into the Aegean. Its proportion and height above the water determine how a body inhab…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260822-094441&file=render.png
 
 ### 260820-094053  ·  pending  ·  review
 
@@ -305,11 +318,5 @@ _generated: 2026-08-20T10:09:03.188168+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1509_16&file=render.png
 
-### taste-260731-1509_15  ·  no/bad  ·  review
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1509_15&file=render.png
-
 ---
-_thumbnails mirrored: 14 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
+_thumbnails mirrored: 15 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
