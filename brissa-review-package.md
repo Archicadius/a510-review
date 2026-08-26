@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-08-23T10:12:02.432107+03:00_
+_generated: 2026-08-26T09:52:21.847627+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **361** · no **594** · pending **3** · total **958**
+- verdicts: yes **361** · no **594** · pending **4** · total **959**
 - ready to publish: **0**
 
 ## DNA summary
@@ -25,6 +25,18 @@ _generated: 2026-08-23T10:12:02.432107+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260826-094724  ·  pending  ·  review
+
+![260826-094724](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260826-094724.jpg)
+
+- scores: ovr 9.0 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 90.0 · exp 90.0 · arch 98.0
+- experience: privacy, serenity, escape, sunset
+- materials: white_plaster, warm_plaster, timber, glass
+- architecture: contemporary
+- brief: тёплый минималистичный интерьер с видом на море
+- caption: The interior doesn't end at the glass — it dissolves into the horizon.  When a plan is organized from travertine and walnut to open water, architecture stops separating shelter from landscape. The threshold becomes a gradient — bronze, then glass, then sea. M…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260826-094724&file=render.png
 
 ### 260823-094939  ·  pending  ·  review
 
@@ -326,11 +338,5 @@ _generated: 2026-08-23T10:12:02.432107+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1509_19&file=render.png
 
-### taste-260731-1509_18  ·  yes/good  ·  review
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1509_18&file=render.png
-
 ---
-_thumbnails mirrored: 17 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
+_thumbnails mirrored: 18 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
