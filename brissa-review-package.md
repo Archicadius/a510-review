@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-08-26T09:52:21.847627+03:00_
+_generated: 2026-08-27T10:11:14.161277+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **361** · no **594** · pending **4** · total **959**
+- verdicts: yes **361** · no **594** · pending **6** · total **961**
 - ready to publish: **0**
 
 ## DNA summary
@@ -25,6 +25,30 @@ _generated: 2026-08-26T09:52:21.847627+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260827-100935  ·  pending  ·  review
+
+![260827-100935](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260827-100935.jpg)
+
+- scores: ovr 4.0 · QL 30.0 · A510 30.0 · Bod 60.0 · prem 30.0 · exp 60.0 · arch 90.0
+- experience: serenity, sunset, sea_breeze, escape
+- materials: white_plaster, rough_stone, timber, glass
+- architecture: contemporary
+- brief: инфинити-бассейн и outdoor living на закате
+- caption: The plane dissolves where architecture stops insisting.  Travertine holds the datum. Walnut marks the threshold; glass removes it. When the infinity edge aligns precisely with the horizon, the pool becomes a structural argument — not an amenity. Bronze absorb…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260827-100935&file=render.png
+
+### 260827-100118  ·  pending  ·  review
+
+![260827-100118](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260827-100118.jpg)
+
+- scores: ovr 9.2 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 90.0
+- experience: arrival, privacy, serenity, escape
+- materials: white_plaster, timber, glass, water
+- architecture: mixed_material
+- brief: тёплый минималистичный интерьер с видом на море
+- caption: Marble holds the plane. Walnut draws the warmth inward. Bronze resolves the edge.  The sequence matters: travertine at grade establishes mass; white plaster lifts the volume into light; walnut and glass open the interior to the Aegean at every hour. Most desi…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260827-100118&file=render.png
 
 ### 260826-094724  ·  pending  ·  review
 
@@ -326,17 +350,5 @@ _generated: 2026-08-26T09:52:21.847627+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1529_01&file=render.png
 
-### taste-260731-1509_20  ·  yes/good  ·  review
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1509_20&file=render.png
-
-### taste-260731-1509_19  ·  yes/good  ·  review
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1509_19&file=render.png
-
 ---
-_thumbnails mirrored: 18 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
+_thumbnails mirrored: 20 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
