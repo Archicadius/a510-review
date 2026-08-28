@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-08-27T10:11:14.161277+03:00_
+_generated: 2026-08-28T10:14:38.487548+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **361** · no **594** · pending **6** · total **961**
+- verdicts: yes **361** · no **594** · pending **8** · total **963**
 - ready to publish: **0**
 
 ## DNA summary
@@ -25,6 +25,30 @@ _generated: 2026-08-27T10:11:14.161277+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260828-095307  ·  pending  ·  review
+
+![260828-095307](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260828-095307.jpg)
+
+- scores: ovr 9.5 · QL 95.0 · A510 95.0 · Bod 90.0 · prem 95.0 · exp 90.0 · arch 95.0
+- experience: arrival, privacy, serenity, escape
+- materials: limestone, timber, glass, warm_plaster
+- architecture: mixed_material
+- brief: Capital preservation. Не yield.
+- caption: Marble holds the plane. Walnut resolves the threshold.  Travertine doesn't announce — it settles into mass. Bronze marks only where two decisions meet. The infinity edge is where the floor's logic ends and the Aegean begins. When every junction is resolved at…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260828-095307&file=render.png
+
+### 260828-094712  ·  pending  ·  review
+
+![260828-094712](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260828-094712.jpg)
+
+- scores: ovr 9.0 · QL 95.0 · A510 92.0 · Bod 90.0 · prem 92.0 · exp 90.0 · arch 90.0
+- experience: privacy, serenity, escape, golden_hour
+- materials: white_plaster, timber, glass, water
+- architecture: contemporary
+- brief: €9 105 vs €1 084
+- caption: The threshold between sea and sky is not a view — it is a decision the architecture makes.  At this elevation, the building calibrates rather than frames the water. Travertine planes extend toward the horizon at a precise angle; the infinity edge continues th…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260828-094712&file=render.png
 
 ### 260827-100935  ·  pending  ·  review
 
@@ -338,17 +362,5 @@ _generated: 2026-08-27T10:11:14.161277+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1529_03&file=render.png
 
-### taste-260731-1529_02  ·  no/bad  ·  review
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1529_02&file=render.png
-
-### taste-260731-1529_01  ·  no/bad  ·  review
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1529_01&file=render.png
-
 ---
-_thumbnails mirrored: 20 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
+_thumbnails mirrored: 22 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
