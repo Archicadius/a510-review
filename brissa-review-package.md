@@ -1,12 +1,12 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-09-05T09:39:23.603878+03:00_
+_generated: 2026-09-05T10:09:29.723978+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **361** · no **594** · pending **12** · total **967**
+- verdicts: yes **361** · no **594** · pending **13** · total **968**
 - ready to publish: **0**
 
 ## DNA summary
@@ -25,6 +25,16 @@ _generated: 2026-09-05T09:39:23.603878+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260905-094320  ·  pending  ·  review
+
+![260905-094320](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260905-094320.jpg)
+
+- scores: no-critic
+- architecture: —
+- brief: роскошная вилла у самой воды Эгейского моря
+- caption: Water doesn't frame the view — the architecture does.  On a site this close to the Aegean, the discipline is restraint. Marble and travertine carry a thermal weight that glass alone cannot hold; the pool plane is calibrated not for spectacle but to dissolve t…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260905-094320&file=render.png
 
 ### 260905-093832  ·  pending  ·  review
 
@@ -380,11 +390,5 @@ _generated: 2026-09-05T09:39:23.603878+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1529_08&file=render.png
 
-### taste-260731-1529_07  ·  no/bad  ·  review
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1529_07&file=render.png
-
 ---
-_thumbnails mirrored: 26 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
+_thumbnails mirrored: 27 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
