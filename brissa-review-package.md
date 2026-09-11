@@ -1,17 +1,17 @@
 # A510 · Brissa — ChatGPT Review Package
 
-_generated: 2026-09-11T09:43:32.142270+03:00_
+_generated: 2026-09-11T10:13:39.607710+03:00_
 
 > Публичное зеркало ревью Brissa для стратега (ChatGPT). Источник — HUB bridge `/review-package`. Картинки — миниатюры на GitHub raw (Vercel-домен ChatGPT не читает).
 
 ## Summary
 - candidates in package: **50**
-- verdicts: yes **361** · no **594** · pending **16** · total **971**
+- verdicts: yes **361** · no **594** · pending **17** · total **972**
 - ready to publish: **0**
 
 ## DNA summary
 - **design**: A510 taste is a RANGE — keep breadth and ROTATE, never collapse to one house. Landscape is a co-star, not a backdrop. Architecture: mixed_material / contemporary / by_the_aegean_sea / sculptural / among_pines_and_olives (rotate across these, don't converge) Materials: glass / timber / water / rough_stone / white_plaster (rotate across these, don't converge) Landscape: terraced / designed_luxury / rich_garden / integrated (rotate across these, don't converge) Landscape features: mature_garden / terraces / retaining_walls / olive_trees / pool (rotate across these, don't converge) Lighting: gold…
-- **diversity**: Diversity: last 30 posts over-use materials='timber' — deliberately pick a DIFFERENT one (try: glass, water, rough_stone, white_plaster); stay inside A510 DNA.
+- **diversity**: Diversity: last 30 posts over-use materials='glass' — deliberately pick a DIFFERENT one (try: timber, water, rough_stone, white_plaster); stay inside A510 DNA.
 - **landscape**: LANDSCAPE is a designed, EXPENSIVE co-star (design it WITH the building, not wild nature). Refined premium landscaping: modern terracing, polished/honed retaining walls, paved terraces, sculptural stairs & paths, curated Mediterranean gardens (mature olives, cypress, pines, palms where fitting, ornamental grasses), premium pool decks, designed outdoor rooms, soft evening landscape lighting. Feels integrated and world-class — not just rough terrain. Owner-confirmed landscape types: terraced, designed_luxury, rich_garden, integrated. Include confirmed features: mature_garden, terraces, retainin…
 - **caption**: Hooks that landed (echo this voice, don't copy): “Marble holds the plane. Dark metal draws the edge.” | “Corten marks the threshold. White plaster takes the rest.” | “At dusk, white plaster stops being a surface — it becomes the light itself.” | “When stone and bronze resolve at this precision, light stops being atmosphere — it becomes” Owner-preferred length ≈ 97 words. Avoid this kind of opener (owner disliked): “Cliffside sites on the Bodrum peninsula are a fixed resource — topography, coastal plannin” | “Stone base, white volume, timber soffit catching the angle of late sun. The terrace p…
 - **experience**: Express these EXPERIENCES (owner-confirmed): serenity, escape, privacy, slow living, sunset, arrival.
@@ -25,6 +25,18 @@ _generated: 2026-09-11T09:43:32.142270+03:00_
 - (none)
 
 ## Recent candidates (40)
+
+### 260911-094401  ·  pending  ·  review
+
+![260911-094401](https://raw.githubusercontent.com/Archicadius/a510-review/main/thumbs/260911-094401.jpg)
+
+- scores: ovr 4.0 · QL 65.0 · A510 30.0 · Bod 80.0 · prem 55.0 · exp 75.0 · arch 95.0
+- experience: privacy, serenity, escape, sea_breeze
+- materials: white_plaster, glass, timber, rough_stone
+- architecture: contemporary
+- brief: роскошная вилла у самой воды Эгейского моря
+- caption: When the pool plane aligns with the horizon, water stops being an amenity — it becomes the primary datum.  The discipline of a coastal site is total: travertine, warm plaster, walnut, bronze — each material must answer the sea. Proportions calibrated so the a…
+- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=260911-094401&file=render.png
 
 ### 260911-093618  ·  pending  ·  review
 
@@ -402,11 +414,5 @@ _generated: 2026-09-11T09:43:32.142270+03:00_
 - architecture: —
 - image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1529_12&file=render.png
 
-### taste-260731-1529_11  ·  no/bad  ·  review
-
-- scores: no-critic
-- architecture: —
-- image (Vercel, для человека): https://a510-hub.vercel.app/api/brissa-taste/image?queue=review&id=taste-260731-1529_11&file=render.png
-
 ---
-_thumbnails mirrored: 30 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
+_thumbnails mirrored: 31 · raw base: https://raw.githubusercontent.com/Archicadius/a510-review/main_
